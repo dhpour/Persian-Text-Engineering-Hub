@@ -97,3 +97,19 @@ Shekasteh is an evaluation dataset for Persian colloquial text. It comes from di
 
 ### [persian-slang](https://github.com/semnan-university-ai/persian-slang)
 Persian Slang Words (dataset)
+
+Numbers to words
+----------------
+
+### [NumToPersian](https://github.com/Shahnazi2002/NumToPersian)
+تبدیل عدد به حروف با پایتون
+
+### [num2words](https://github.com/saeed-raeisi/num2words)
+Read me this number python -- Convert number to Persian -- تبدیل عدد به فارسی
+
+### [PersianNumberToWord](https://github.com/razavioo/PersianNumberToWord)
+Convert numbers to Persian words.
+
+### [dpern](https://github.com/amishbni/dpern)
+Describe PERsian Numbers
+
