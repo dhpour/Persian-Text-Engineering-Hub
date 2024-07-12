@@ -126,3 +126,33 @@ Persian Word Embedding using FastText, BERT, GPT and GloVe | تعبیه کلما
 
 ### [Persian_Word2Vec](https://github.com/AminMozhgani/Persian_Word2Vec)
 A Persian Word2Vec Model trained by Wikipedia articles
+
+Benchmark
+---------
+### [parsinlu](https://github.com/persiannlp/parsinlu)
+A comprehensive suite of high-level NLP tasks for Persian language
+- Text entailment
+- Query paraphrasing
+- Reading comprehension
+- Multiple-choice QA
+- Machine translation
+- Sentiment analysis
+
+### [parsbench](https://github.com/shahriarshm/parsbench)
+ParsBench provides toolkits for benchmarking LLMs based on the Persian language tasks.
+- ParsiNLU all tasks
+- Persian NER
+- Persian Math
+- ConjNLI Entailment
+- Persian MMLU (khayyam Chanllenge)
+
+### [xtreme](https://github.com/google-research/xtreme)
+XTREME is a benchmark for the evaluation of the cross-lingual generalization ability of pre-trained multilingual models that covers 40 typologically diverse languages and includes nine tasks.
+Persian datasets consist of:
+- Universal dependencies part-of-speech tagging
+- Wikiann named entity recognition
+
+### [Benchmarking_ChatGPT_for_Persian](https://github.com/Ipouyall/Benchmarking_ChatGPT_for_Persian)
+Benchmarking ChatGPT for Persian: A Preliminary Study
+- Elemntry school
+- Mathematical problems dataset
