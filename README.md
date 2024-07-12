@@ -50,3 +50,6 @@ A Grapheme to Phoneme model using LSTM implemented in pytorch
 
 ### [PersianG2P](https://github.com/PasaOpasen/PersianG2P)
 Persian Grapheme-to-Phoneme (G2P) converter
+
+### [persian-words-pronunciation](https://github.com/pfndesign/persian-words-pronunciation)
+list of persian word pronunciations
