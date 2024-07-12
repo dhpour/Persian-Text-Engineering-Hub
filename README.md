@@ -68,3 +68,24 @@ Persian Stemming data-set in order to evaluate new stemmers
 ### [PersianStemmer-Python](https://github.com/htaghizadeh/PersianStemmer-Python)
 PersianStemmer-Python
 
+Sentiment Analysis
+------------------
+### [Persian-Sentiment-Resources](https://github.com/Text-Mining/Persian-Sentiment-Resources)
+Awesome Persian Sentiment Analysis Resources - منابع مرتبط با تحلیل احساسات در زبان فارسی
+
+- Consists of following datasets:
+  - Deep Neural Networks in Persian Sentiment Analysis
+  - Sentiment Analysis Challenges
+  - Sentiment Lexicon
+  - Sentiment Tagged Corpus (dataset)
+  - HesNegar: Persian Sentiment WordNet
+
+### [Persian-Sentiment-Analyzer](https://github.com/ashalogic/Persian-Sentiment-Analyzer)
+Persian sentiment analysis ( آناکاوی سهش های فارسی | تحلیل احساسات فارسی )
+
+### [Sentiment-Analysis](https://github.com/parsa-abbasi/Sentiment-Analysis)
+Sentiment analysis using ML and DL models on Persian texts
+
+### [LexiPers](https://github.com/phosseini/LexiPers)
+A Sentiment Analysis Lexicon for Persian
+
