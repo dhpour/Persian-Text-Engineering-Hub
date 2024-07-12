@@ -38,3 +38,15 @@ The all-in-one AI library for Persian, supporting a wide variety of tasks and mo
   - Word2Vec (Skip-gram)
   - Word2Vec (CBOW)
 - Datasets
+
+Graheme to phoneme
+------------------
+### [persian_phonemizer](https://github.com/de-mh/persian_phonemizer)
+
+A tool for translating Persian text to IPA (International Phonetic Alphabet).
+
+### [g2p_fa](https://github.com/de-mh/g2p_fa)
+A Grapheme to Phoneme model using LSTM implemented in pytorch
+
+### [PersianG2P](https://github.com/PasaOpasen/PersianG2P)
+Persian Grapheme-to-Phoneme (G2P) converter
