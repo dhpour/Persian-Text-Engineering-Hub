@@ -53,3 +53,18 @@ Persian Grapheme-to-Phoneme (G2P) converter
 
 ### [persian-words-pronunciation](https://github.com/pfndesign/persian-words-pronunciation)
 list of persian word pronunciations
+
+Word Analyzer
+-------------
+### [cpia](https://github.com/lingwndr/cpia)
+Informal and Formal Persian word analyzer (inflection with FST)
+
+### [Perstem](github.com/jonsafari/perstem)
+Persian stemmer and morphological analyzer
+
+### [PersianStemmingDataset](https://github.com/htaghizadeh/PersianStemmingDataset/tree/master)
+Persian Stemming data-set in order to evaluate new stemmers
+
+### [PersianStemmer-Python](https://github.com/htaghizadeh/PersianStemmer-Python)
+PersianStemmer-Python
+
