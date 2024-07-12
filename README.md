@@ -89,3 +89,11 @@ Sentiment analysis using ML and DL models on Persian texts
 ### [LexiPers](https://github.com/phosseini/LexiPers)
 A Sentiment Analysis Lexicon for Persian
 
+Informal Persian
+----------------
+
+### [Shekasteh](https://github.com/rasoolims/Shekasteh)
+Shekasteh is an evaluation dataset for Persian colloquial text. It comes from different genres, including blog posts, movie subtitles, and forum chats.
+
+### [persian-slang](https://github.com/semnan-university-ai/persian-slang)
+Persian Slang Words (dataset)
