@@ -89,6 +89,10 @@ Sentiment analysis using ML and DL models on Persian texts
 ### [LexiPers](https://github.com/phosseini/LexiPers)
 A Sentiment Analysis Lexicon for Persian
 
+### [Taaghche | طاقچه](https://www.kaggle.com/datasets/saeedtqp/taaghche)
+Persian book comment ratings dataset. Consists of about 70k comment about 11k books.
+
+
 Informal Persian
 ----------------
 
