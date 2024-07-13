@@ -320,3 +320,10 @@ Audio Dataset
 ### [PSDR](https://github.com/Ralireza/PSDR)
 Persian spoken digit recognition
 
+Crawl Suite
+-----------
+### [news-search-engine](https://github.com/MehranTaghian/news-search-engine/tree/main)
+A search engine for crawling news from the web, storing in a structured way, and querying through the stored documents for finding the most relevant results using Machine Learning and Information Retrieval techniques.
+
+### [iranian-news-agencies-crawler](https://github.com/hamid/iranian-news-agencies-crawler)
+a crawler to fetch last news from Iranian(Persian) news agencies.
