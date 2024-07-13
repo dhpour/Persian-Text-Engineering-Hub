@@ -208,3 +208,11 @@ Persian text normalizer (Python version of https://github.com/aziz/virastar)
 ### [virastar](https://github.com/octoberfa/virastar)
 cleanning up Persian text!
 
+Normalization
+-------------
+### [persianutils](https://github.com/ishto7/persianutils)
+Standardize your Persian text: Preprocessing, Embedding, and more!
+
+### [Farsi-Normalizer](https://github.com/lingwndr/Farsi-Normalizer)
+Simple Farsi normalizer
+
