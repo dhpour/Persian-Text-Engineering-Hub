@@ -173,6 +173,8 @@ Consists of following sets:
 - Farhange `Motaradef` va Motazad (A dictionary of Persian synonyms and antonyms)
 - Farhange `Teyfi` (Persian Thesaurus)
 
+### [UD_Persian-Seraji](https://github.com/UniversalDependencies/UD_Persian-Seraji)
+The Persian Universal Dependency Treebank (Seraji) is based on Uppsala Persian Dependency Treebank (UPDT). The conversion of the UPDT to the Universal Dependencies was performed semi-automatically with extensive manual checks and corrections.
 
 Toxic text
 ----------
