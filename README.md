@@ -360,3 +360,8 @@ Mocking
 -------
 ### [PersianFaker](https://github.com/muhammadmp97/PersianFaker)
 Do you need some fake data?
+
+UI/UX
+-----
+### [persian-badge](https://github.com/kasraghoreyshi/persian-badge)
+Persian-Badge is a website for having metadata badges in the Persian language
