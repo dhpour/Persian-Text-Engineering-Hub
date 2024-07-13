@@ -167,7 +167,7 @@ Persian (Farsi) Question Answering Dataset (+ Models)
 
 Consists of following sets:
 - Words of `Sareh` Dictionary (Purified Persian Words)
-- `Farhangestan` chosen words for non-Persian
+- `Farhangestan` chosen words for non-Persian equivalents.
 - Farhange `Emlaee` (A dictionary of Persian orthography and spelling)
 - A part of `Ganjoor`'s website poetry repos.
 - Farhange `Motaradef` va Motazad (A dictionary of Persian synonyms and antonyms)
