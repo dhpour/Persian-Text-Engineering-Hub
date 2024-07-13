@@ -243,3 +243,26 @@ Farsi to Finglish, a Persian transliterator
 
 ### [Behnevis](https://github.com/lingwndr/pinglish_behnevis)
 24k ASCII transliterated Persian words
+
+Word Set
+--------
+### [persian-names](https://github.com/nabidam/persian-names)
+Persian names dataset
+
+### [persian-names](https://github.com/armanyazdi/persian-names)
+A Python package for generating random Persian (Farsi) names.
+
+### [persian-wordlist](https://github.com/masterking32/persian-wordlist)
+A SQL database that includes a dictionary of 494,286 Persian words. دیکشنری 494,286 کلمه فارسی به صورت دیتابیس
+
+### [persianwordjson](https://github.com/semnan-university-ai/persianwordjson)
+This repository is a Persian meaningful database with json
+
+### [persian-words-category](https://github.com/pfndesign/persian-words-category)
+850k categorized Persian words.
+
+### [similar-persian-words](https://github.com/pfndesign/similar-persian-words)
+pre-calculated list of similar Persian words ordered by rating and best match
+
+### [an-array-of-persian-words](https://github.com/pfndesign/an-array-of-persian-words)
+List of ~240,000 Persian words
