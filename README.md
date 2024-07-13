@@ -176,6 +176,12 @@ Consists of following sets:
 ### [UD_Persian-Seraji](https://github.com/UniversalDependencies/UD_Persian-Seraji)
 The Persian Universal Dependency Treebank (Seraji) is based on Uppsala Persian Dependency Treebank (UPDT). The conversion of the UPDT to the Universal Dependencies was performed semi-automatically with extensive manual checks and corrections.
 
+### [Virgool Dataset](https://www.kaggle.com/datasets/mehranrafiee/persian-articles-for-labeling)
+This could be a nice tool for Persian writers or bloggers to automatically pick the suggested hashtag or even subject for their articles. We could even collect data from google trend for each hashtag or 'label' used in an article. Consists of 11k+ articles.
+
+### [PersianBooks Dataset | دیتاست کتاب‌های فارسی](https://www.kaggle.com/datasets/saeedtqp/persian-books-dataset)
+This dataset consists of books available on taaghche as of 2020. Consists of 16k books.
+
 Toxic text
 ----------
 ### [Persian-Abusive-Words](https://github.com/mohamad-dehghani/Persian-Abusive-Words)
