@@ -186,3 +186,25 @@ list other stop words collections (7 repos)
 
 ### [stopwords-fa](https://github.com/stopwords-iso/stopwords-fa)
 Persian stopwords collection
+
+Spell checking
+------------
+
+### [persian-spell-checker-kenlm](https://github.com/pooya-mohammadi/persian-spell-checker-kenlm)
+A complete instruction for training a Persian spell checker and a language model based on SymSpell and KenLM, respectively using Wikipedia dataset.
+
+### [virastar](https://github.com/nekofar/virastar)
+Virastar is a TypeScript library for Persian text processing, providing various functions such as normalization, cleaning, and formatting for better readability and compatibility.
+
+### [Virastar](https://github.com/AlirezaSedghi/Virastar)
+Cleaning-up Persian Texts!
+
+### [virastar](https://github.com/aziz/virastar)
+cleanning up Persian text!
+
+### [virastar.py](https://github.com/JKhakpour/virastar.py)
+Persian text normalizer (Python version of https://github.com/aziz/virastar)
+
+### [virastar](https://github.com/octoberfa/virastar)
+cleanning up Persian text!
+
