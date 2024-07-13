@@ -168,3 +168,21 @@ Remove Persian (Farsi) Swear Words
 ### [Persian-Swear-Words](https://github.com/amirshnll/Persian-Swear-Words)
 Persian Swear Dataset - you can use in your production to filter unwanted content. دیتاست کلمات نامناسب و بد فارسی برای فیلتر کردن متن ها
 
+Stop words list
+---------------
+
+### [PersianStopWords](https://github.com/rahmanidashti/PersianStopWords/)
+A complete list of Persian stop words
+
+### [persian-stop-word](https://github.com/semnan-university-ai/persian-stop-word)
+persian stop word data
+
+### [persian-stopwords](https://github.com/kharazi/persian-stopwords)
+Persian (Farsi) Stop Words List
+
+### [Persian-stopwords-collection](https://github.com/ziaa/Persian-stopwords-collection)
+A collection of Persian stopwords - فهرست کلمات ایست فارسی
+list other stop words collections (7 repos)
+
+### [stopwords-fa](https://github.com/stopwords-iso/stopwords-fa)
+Persian stopwords collection
