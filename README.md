@@ -156,3 +156,15 @@ Persian datasets consist of:
 Benchmarking ChatGPT for Persian: A Preliminary Study
 - Elemntry school
 - Mathematical problems dataset
+
+Toxic text
+----------
+### [Persian-Abusive-Words](https://github.com/mohamad-dehghani/Persian-Abusive-Words)
+We created a dataset of 33338 Persian tweets, of which 10% contained Abusive words and 90% were non-Abusive.
+
+### [Sansorchi](https://github.com/mmdbalkhi/Sansorchi)
+Remove Persian (Farsi) Swear Words
+
+### [Persian-Swear-Words](https://github.com/amirshnll/Persian-Swear-Words)
+Persian Swear Dataset - you can use in your production to filter unwanted content. دیتاست کلمات نامناسب و بد فارسی برای فیلتر کردن متن ها
+
