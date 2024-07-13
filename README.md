@@ -216,6 +216,9 @@ list other stop words collections (7 repos)
 ### [stopwords-fa](https://github.com/stopwords-iso/stopwords-fa)
 Persian stopwords collection
 
+### [Persian StopWords](https://www.kaggle.com/datasets/saeedtqp/sttoppword)
+Consists of about 2k stop words.
+
 Spell checking
 ------------
 
