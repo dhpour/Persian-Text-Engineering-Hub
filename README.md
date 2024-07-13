@@ -233,3 +233,12 @@ Standardize your Persian text: Preprocessing, Embedding, and more!
 ### [Farsi-Normalizer](https://github.com/lingwndr/Farsi-Normalizer)
 Simple Farsi normalizer
 
+Transliteration
+---------------
+### [tajik-to-persian-transliteration](https://github.com/stibiumghost/tajik-to-persian-transliteration)
+Tajik-to-Persian transliteration model
+
+### [f2f](https://github.com/brothersincode/f2f)
+Farsi to Finglish, a Persian transliterator
+
+### [Behnevis](https://github.com/lingwndr/pinglish_behnevis)
