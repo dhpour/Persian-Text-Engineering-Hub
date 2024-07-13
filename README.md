@@ -332,6 +332,9 @@ Audio Dataset
 ### [PSDR](https://github.com/Ralireza/PSDR)
 Persian spoken digit recognition
 
+### [Persian Questions](https://www.kaggle.com/datasets/halflingwizard/persian-questions)
+Simple Persian Questions aimed to use in a voice assistant in 4 Categories. Labeled NEs in command utterances (in text).
+
 Crawl Suite
 -----------
 ### [news-search-engine](https://github.com/MehranTaghian/news-search-engine/tree/main)
