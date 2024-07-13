@@ -314,3 +314,9 @@ Useful Persian dictionary and more. Consists of:
     - ترجمه الهی قمشه ای [6236 ردیف]
     - ترجمه کلمه به کلمه آیات [83668 ردیف]
     - لینک صوت قاریان [48 ردیف]
+
+Audio Dataset
+-------------
+### [PSDR](https://github.com/Ralireza/PSDR)
+Persian spoken digit recognition
+
