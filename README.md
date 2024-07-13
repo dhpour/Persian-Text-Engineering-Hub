@@ -266,3 +266,51 @@ pre-calculated list of similar Persian words ordered by rating and best match
 
 ### [an-array-of-persian-words](https://github.com/pfndesign/an-array-of-persian-words)
 List of ~240,000 Persian words
+
+Poetry and Literature
+---------------------
+### [hafez-poems-bot](https://github.com/ArminGh02/hafez-poems-bot)
+A simple Telegram bot implemented in Python.
+
+### [persian-databases](https://github.com/ganjoor/persian-databases)
+Useful Persian dictionary and more. Consists of:
+- لغتنامه
+    - لغتنامه دهخدا [36097 ردیف]
+    - مترادف های کلمات [19914 ردیف]
+
+- اشعار شعرای ایرانی
+    - احمد شاملو
+    - باباطاهر
+    - پروین اعتصامی
+    - حافظ
+    - خیام
+    - رهی معیری
+    - رودکی
+    - سعدی
+    - سهراب سپهری
+    - شهریار
+    - صائب تبریزی
+    - عنصری
+    - فردوسی
+    - فروغ فرخزاد
+    - مهدی اخوان ثالت
+    - مولوی
+    - نظامی
+    - نیما یوشیج
+
+
+- عربی
+    - فرهنگ جامع عربی به فارسی [113342 ردیف]
+    - فرهنگ جامع فارسی به عربی [32734 ردیف]
+    - فرهنگ ابجد فارسی به عربی [41718 ردیف]
+    - فرهنگ عربی به فارسی [8020 ردیف]
+    - مفردات القرآن الکریم عربی [1609 ردیف]
+    - مغاییس اللغه عربی [4669 ردیف]
+    - المعجم الوسیط  عربی [41473 ردیف]
+    - الامثال (شرح امثال عربی به عربی) [4510 ردیف]
+- **دیتابیس قرآن کریم**
+    - سوره های قرآن [114 ردیف]
+    - آیات قرآن [6236 ردیف]
+    - ترجمه الهی قمشه ای [6236 ردیف]
+    - ترجمه کلمه به کلمه آیات [83668 ردیف]
+    - لینک صوت قاریان [48 ردیف]
