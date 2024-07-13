@@ -242,3 +242,4 @@ Tajik-to-Persian transliteration model
 Farsi to Finglish, a Persian transliterator
 
 ### [Behnevis](https://github.com/lingwndr/pinglish_behnevis)
+24k ASCII transliterated Persian words
