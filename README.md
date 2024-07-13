@@ -157,6 +157,23 @@ Benchmarking ChatGPT for Persian: A Preliminary Study
 - Elemntry school
 - Mathematical problems dataset
 
+Datasets
+--------
+### [PersianQA](https://github.com/sajjjadayobi/PersianQA)
+Persian (Farsi) Question Answering Dataset (+ Models)
+
+### [Vajehdan](https://github.com/sir-kokabi/Vajehdan)
+دستیار واژه‌گزینیِ فارسی.
+
+Consists of following sets:
+- Words of `Sareh` Dictionary (Purified Persian Words)
+- `Farhangestan` chosen words for non-Persian
+- Farhange `Emlaee` (A dictionary of Persian orthography and spelling)
+- A part of `Ganjoor`'s website poetry repos.
+- Farhange `Motaradef` va Motazad (A dictionary of Persian synonyms and antonyms)
+- Farhange `Teyfi` (Persian Thesaurus)
+
+
 Toxic text
 ----------
 ### [Persian-Abusive-Words](https://github.com/mohamad-dehghani/Persian-Abusive-Words)
