@@ -186,6 +186,20 @@ This could be a nice tool for Persian writers or bloggers to automatically pick 
 ### [PersianBooks Dataset | دیتاست کتاب‌های فارسی](https://www.kaggle.com/datasets/saeedtqp/persian-books-dataset)
 This dataset consists of books available on taaghche as of 2020. Consists of 16k books.
 
+NER
+---
+### [parstwiner](https://github.com/overfit-ir/parstwiner)
+Name Entity Recognition (NER) on the Persian Twitter dataset.
+
+### [NSURL-Persian-NER](https://github.com/nasrin-taghizadeh/NSURL-Persian-NER)
+NSURL 2019- Task 7, Named Entity Recognition in Persian
+
+### [PersianNER](https://github.com/HaniehP/PersianNER)
+Named-Entity Recognition in Persian Language
+
+### [Persian-NER](https://github.com/Text-Mining/Persian-NER)
+پیکره بزرگ شناسایی موجودیت‌های نامدار فارسی برچسب خورده
+
 Toxic text
 ----------
 ### [Persian-Abusive-Words](https://github.com/mohamad-dehghani/Persian-Abusive-Words)
