@@ -355,3 +355,8 @@ Keyword Extraction
 ------------------
 ### [Perke](https://github.com/AlirezaTheH/perke)
 A keyphrase extractor for Persian
+
+Mocking
+-------
+### [PersianFaker](https://github.com/muhammadmp97/PersianFaker)
+Do you need some fake data?
