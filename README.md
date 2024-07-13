@@ -338,6 +338,13 @@ Persian spoken digit recognition
 ### [Persian Questions](https://www.kaggle.com/datasets/halflingwizard/persian-questions)
 Simple Persian Questions aimed to use in a voice assistant in 4 Categories. Labeled NEs in command utterances (in text).
 
+### [Common Voice](https://github.com/common-voice/cv-dataset)
+About 60 hours audio produced by various users reading sentences.
+All sentences with duplicates are 500h+.
+
+### [Persian Speech Corpus](https://fa.persianspeechcorpus.com/)
+This ~2.5-hour Single-Speaker Speech corpus.
+
 Crawl Suite
 -----------
 ### [news-search-engine](https://github.com/MehranTaghian/news-search-engine/tree/main)
