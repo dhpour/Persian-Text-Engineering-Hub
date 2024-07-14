@@ -132,8 +132,6 @@ Describe PERsian Numbers
 
 Word Embeddings
 ---------------
-### [PREDICT-Persian-Reverse-Dictionary](https://github.com/arm-on/PREDICT-Persian-Reverse-Dictionary)
-The first intelligent Persian reverse dictionary
 
 ### [Persian-Word-Embedding](https://github.com/miladfa7/Persian-Word-Embedding)
 Persian Word Embedding using FastText, BERT, GPT and GloVe | تعبیه کلمات فارسی با روش های مختلف
