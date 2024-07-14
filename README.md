@@ -313,6 +313,12 @@ pre-calculated list of similar Persian words ordered by rating and best match
 ### [an-array-of-persian-words](https://github.com/pfndesign/an-array-of-persian-words)
 List of ~240,000 Persian words
 
+### [persian-databases](https://github.com/ganjoor/persian-databases)
+Useful Persian dictionary and more. Consists of:
+- لغتنامه
+    - لغتنامه دهخدا [36097 ردیف]
+    - مترادف های کلمات [19914 ردیف]
+    
 Poetry and Literature
 ---------------------
 ### [hafez-poems-bot](https://github.com/ArminGh02/hafez-poems-bot)
