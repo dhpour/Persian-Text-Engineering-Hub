@@ -92,6 +92,16 @@ A Sentiment Analysis Lexicon for Persian
 ### [Taaghche | طاقچه](https://www.kaggle.com/datasets/saeedtqp/taaghche)
 Persian book comment ratings dataset. Consists of about 70k comment about 11k books.
 
+### [Digikala (comments & products)](https://www.kaggle.com/datasets/radeai/digikala-comments-and-products)
+The Digikala (comments & products) dataset offers a comprehensive glimpse into the vast online marketplace of Digikala, comprising over 1.2 million products and more than 6 million comments.
+
+### [Digikala Comments](https://www.kaggle.com/datasets/soheiltehranipour/digikala-comments-persian-sentiment-analysis)
+3k comments with score and ratings.
+
+### [Persian tweets emotional dataset](https://www.kaggle.com/datasets/behdadkarimi/persian-tweets-emotional-dataset)
+20k tweets with emotion identification labels.
+
+
 
 Informal Persian
 ----------------
