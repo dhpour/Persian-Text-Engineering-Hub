@@ -433,3 +433,9 @@ Coco 2017 translated to Persian language.
 
 ### [Iranis-dataset](https://github.com/alitourani/Iranis-dataset)
 Dataset of Farsi License Plate Characters (83k).
+
+Translation
+-----------
+
+### [Persian movie dataset (English, Persian)](https://www.kaggle.com/datasets/mohammad26845/persian-movie-dataset-english-persian)
+Persian language movies dataset from imvbox.com. 14k movies with storyline translated from Persian to English.
