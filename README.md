@@ -1,4 +1,6 @@
 # Persian-Text-Engineering-Hub
+[![Check Links](https://github.com/lingwndr/Persian-Text-Engineering-Hub/actions/workflows/link_check.yml/badge.svg)](https://github.com/lingwndr/Persian-Text-Engineering-Hub/actions/workflows/link_check.yml)
+
 Curated list of Text libraries, tools and datasets for Persian language.
 
 Multi-purpose libs
