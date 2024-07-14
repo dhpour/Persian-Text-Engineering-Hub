@@ -135,9 +135,6 @@ Word Embeddings
 ### [PREDICT-Persian-Reverse-Dictionary](https://github.com/arm-on/PREDICT-Persian-Reverse-Dictionary)
 The first intelligent Persian reverse dictionary
 
-### [Moeen_thesaurus](https://github.com/kavir1698/Moeen_thesaurus)
-فرهنگِ پیوندِ معناییِ واژه‌ها (بر پایه‌ی فرهنگ معین)
-
 ### [Persian-Word-Embedding](https://github.com/miladfa7/Persian-Word-Embedding)
 Persian Word Embedding using FastText, BERT, GPT and GloVe | تعبیه کلمات فارسی با روش های مختلف
 
