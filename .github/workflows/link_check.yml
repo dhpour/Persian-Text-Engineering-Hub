@@ -4,7 +4,7 @@ on: #[push]
   repository_dispatch:
   workflow_dispatch:
   schedule:
-    - cron: "40 21 * * *"
+    - cron: "00 19 * * *"
 #permissions: write-all
 jobs:
   linkChecker:
