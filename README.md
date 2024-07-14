@@ -360,6 +360,9 @@ Useful Persian dictionary and more. Consists of:
     - ترجمه کلمه به کلمه آیات [83668 ردیف]
     - لینک صوت قاریان [48 ردیف]
 
+### [Shereno: A Dataset of Persian Modernist Poetry](https://www.kaggle.com/datasets/elhamaghakhani/persian-poems)
+Collection of Persian Modernist Poetry from Iranian contemporary poets
+
 Audio Dataset
 -------------
 ### [PSDR](https://github.com/Ralireza/PSDR)
