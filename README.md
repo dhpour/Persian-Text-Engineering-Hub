@@ -420,6 +420,9 @@ Various
 ### [Perke](https://github.com/AlirezaTheH/perke)
 A keyphrase extractor for Persian
 
+### [PREDICT-Persian-Reverse-Dictionary](https://github.com/arm-on/PREDICT-Persian-Reverse-Dictionary)
+The first intelligent Persian reverse dictionary
+
 Mocking
 -------
 ### [PersianFaker](https://github.com/muhammadmp97/PersianFaker)
