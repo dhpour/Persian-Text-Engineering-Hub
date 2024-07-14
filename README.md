@@ -205,6 +205,12 @@ Named-Entity Recognition in Persian Language
 ### [Persian-NER](https://github.com/Text-Mining/Persian-NER)
 پیکره بزرگ شناسایی موجودیت‌های نامدار فارسی برچسب خورده
 
+Unlabled
+--------
+
+### [persian sms dataset](https://www.kaggle.com/datasets/amirshnll/persian-sms-dataset)
+Persian real SMS Dataset
+
 Toxic text
 ----------
 ### [Persian-Abusive-Words](https://github.com/mohamad-dehghani/Persian-Abusive-Words)
