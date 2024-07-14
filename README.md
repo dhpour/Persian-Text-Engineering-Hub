@@ -423,3 +423,13 @@ Spam
 
 ### [persian-sms-spam-word](https://www.kaggle.com/datasets/amirshnll/persiansmsspamword)
 persian sms spam word
+
+Image Captioning
+----------------
+
+### [Coco 2017 Farsi](https://www.kaggle.com/datasets/navidkanaani/coco-2017-farsi)
+Coco 2017 translated to Persian language.
+91k images with caption in Persian.
+
+### [Iranis-dataset](https://github.com/alitourani/Iranis-dataset)
+Dataset of Farsi License Plate Characters (83k).
