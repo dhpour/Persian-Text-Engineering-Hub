@@ -407,6 +407,9 @@ A search engine for crawling news from the web, storing in a structured way, and
 ### [iranian-news-agencies-crawler](https://github.com/hamid/iranian-news-agencies-crawler)
 a crawler to fetch last news from Iranian(Persian) news agencies.
 
+### [PersianCrawler](https://github.com/pourmand1376/PersianCrawler)
+Open source crawler for Persian websites including Asriran, fa-Wikipedia, Tasnim, Isna.
+
 POS Tagger
 ----------
 ### [Persian_POS_Tagger](https://github.com/AminMozhgani/Persian_POS_Tagger)
