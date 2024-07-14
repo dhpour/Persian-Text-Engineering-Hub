@@ -404,3 +404,6 @@ This is a dataset of handwritten cities in Iran in Arabic/Persian that has been 
 
 ### [IranShahr](https://github.com/DarjaGFX/IranShahr/tree/master)
 Hand-written / typed names of different cities of Iran in image format.
+
+### [PLF Image Dataset](https://www.kaggle.com/datasets/sabermalek/plf50)
+ 50*50 Images of Persian letters (without dots) with 32 Different Fonts.
