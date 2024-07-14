@@ -318,7 +318,7 @@ Useful Persian dictionary and more. Consists of:
 - لغتنامه
     - لغتنامه دهخدا [36097 ردیف]
     - مترادف های کلمات [19914 ردیف]
-    
+
 Poetry and Literature
 ---------------------
 ### [hafez-poems-bot](https://github.com/ArminGh02/hafez-poems-bot)
@@ -326,10 +326,6 @@ A simple Telegram bot implemented in Python.
 
 ### [persian-databases](https://github.com/ganjoor/persian-databases)
 Useful Persian dictionary and more. Consists of:
-- لغتنامه
-    - لغتنامه دهخدا [36097 ردیف]
-    - مترادف های کلمات [19914 ردیف]
-
 - اشعار شعرای ایرانی
     - احمد شاملو
     - باباطاهر
