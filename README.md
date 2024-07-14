@@ -395,3 +395,12 @@ UI/UX
 -----
 ### [persian-badge](https://github.com/kasraghoreyshi/persian-badge)
 Persian-Badge is a website for having metadata badges in the Persian language
+
+OCR
+---
+
+### [handwritten-city-names-in-Arabic-Persian](https://github.com/mehrdad-moradi/handwritten-city-names-in-Arabic-Persian)
+This is a dataset of handwritten cities in Iran in Arabic/Persian that has been used in my Master project. This dataset is collected for sorting postal packages.
+
+### [IranShahr](https://github.com/DarjaGFX/IranShahr/tree/master)
+Hand-written / typed names of different cities of Iran in image format.
