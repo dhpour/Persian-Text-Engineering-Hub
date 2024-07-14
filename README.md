@@ -359,6 +359,15 @@ All sentences with duplicates are 500h+.
 ### [Persian Speech Corpus](https://fa.persianspeechcorpus.com/)
 This ~2.5-hour Single-Speaker Speech corpus.
 
+### [ShEMO: Persian Speech Emotion Detection Database](https://www.kaggle.com/datasets/mansourehk/shemo-persian-speech-emotion-detection-database)
+A semi-natural db which contains emotional speech samples of Persian speakers. The database includes 3000 semi-natural utterances, equivalent to 3 h and 25 min of speech data extracted from online radio plays.
+
+### [speech2text](https://github.com/shenasa-ai/speech2text)
+A Deep-Learning-Based Persian Speech Recognition System. Takes advantage of various ASR platforms to create models for ASR. Also it uses various datasets including Mozzila CommonVoice and their own dtaset which consists of 300h+ audio and transcription.
+
+### [PCVC Speech Dataset](https://www.kaggle.com/datasets/sabermalek/pcvcspeech)
+Phoneme based speech dataset.
+
 Crawl Suite
 -----------
 ### [news-search-engine](https://github.com/MehranTaghian/news-search-engine/tree/main)
