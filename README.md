@@ -193,9 +193,6 @@ The Persian Universal Dependency Treebank (Seraji) is based on Uppsala Persian D
 ### [Virgool Dataset](https://www.kaggle.com/datasets/mehranrafiee/persian-articles-for-labeling)
 This could be a nice tool for Persian writers or bloggers to automatically pick the suggested hashtag or even subject for their articles. We could even collect data from google trend for each hashtag or 'label' used in an article. Consists of 11k+ articles.
 
-### [PersianBooks Dataset | دیتاست کتاب‌های فارسی](https://www.kaggle.com/datasets/saeedtqp/persian-books-dataset)
-This dataset consists of books available on taaghche as of 2020. Consists of 16k books.
-
 NER
 ---
 ### [parstwiner](https://github.com/overfit-ir/parstwiner)
@@ -439,3 +436,7 @@ Translation
 
 ### [Persian movie dataset (English, Persian)](https://www.kaggle.com/datasets/mohammad26845/persian-movie-dataset-english-persian)
 Persian language movies dataset from imvbox.com. 14k movies with storyline translated from Persian to English.
+
+### [The Holy Quran](https://www.kaggle.com/datasets/zusmani/the-holy-quran)
+Quran ayat with translation in 21 languages.
+
