@@ -1,10 +1,10 @@
 name: Links
 
-on: [push]
-  #repository_dispatch:
-  #workflow_dispatch:
-  #schedule:
-    #- cron: "00 15 * * 0"
+on: #[push]
+  repository_dispatch:
+  workflow_dispatch:
+  schedule:
+    - cron: "40 21 * * *"
 permissions: write-all
 jobs:
   linkChecker:
