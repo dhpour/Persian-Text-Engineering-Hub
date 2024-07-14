@@ -176,17 +176,6 @@ Datasets
 ### [PersianQA](https://github.com/sajjjadayobi/PersianQA)
 Persian (Farsi) Question Answering Dataset (+ Models)
 
-### [Vajehdan](https://github.com/sir-kokabi/Vajehdan)
-دستیار واژه‌گزینیِ فارسی.
-
-Consists of following sets:
-- Words of `Sareh` Dictionary (Purified Persian Words)
-- `Farhangestan` chosen words for non-Persian equivalents.
-- Farhange `Emlaee` (A dictionary of Persian orthography and spelling)
-- A part of `Ganjoor`'s website poetry repos.
-- Farhange `Motaradef` va Motazad (A dictionary of Persian synonyms and antonyms)
-- Farhange `Teyfi` (Persian Thesaurus)
-
 ### [UD_Persian-Seraji](https://github.com/UniversalDependencies/UD_Persian-Seraji)
 The Persian Universal Dependency Treebank (Seraji) is based on Uppsala Persian Dependency Treebank (UPDT). The conversion of the UPDT to the Universal Dependencies was performed semi-automatically with extensive manual checks and corrections.
 
@@ -280,8 +269,20 @@ Farsi to Finglish, a Persian transliterator
 ### [Behnevis](https://github.com/lingwndr/pinglish_behnevis)
 24k ASCII transliterated Persian words
 
-Word Set
---------
+Encyclopedia and Word Set
+-------------------------
+
+### [Vajehdan](https://github.com/sir-kokabi/Vajehdan)
+دستیار واژه‌گزینیِ فارسی.
+
+Consists of following sets:
+- Words of `Sareh` Dictionary (Purified Persian Words)
+- `Farhangestan` chosen words for non-Persian equivalents.
+- Farhange `Emlaee` (A dictionary of Persian orthography and spelling)
+- A part of `Ganjoor`'s website poetry repos.
+- Farhange `Motaradef` va Motazad (A dictionary of Persian synonyms and antonyms)
+- Farhange `Teyfi` (Persian Thesaurus)
+
 ### [persian-names](https://github.com/nabidam/persian-names)
 Persian names dataset
 
