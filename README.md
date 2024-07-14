@@ -109,6 +109,9 @@ Informal Persian
 ### [Shekasteh](https://github.com/rasoolims/Shekasteh)
 Shekasteh is an evaluation dataset for Persian colloquial text. It comes from different genres, including blog posts, movie subtitles, and forum chats.
 
+### [cpia](https://github.com/lingwndr/cpia)
+Informal and Formal Persian word analyzer (inflection with FST)
+
 ### [persian-slang](https://github.com/semnan-university-ai/persian-slang)
 Persian Slang Words (dataset)
 
