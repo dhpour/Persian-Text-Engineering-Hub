@@ -415,7 +415,7 @@ POS Tagger
 ### [Persian_POS_Tagger](https://github.com/AminMozhgani/Persian_POS_Tagger)
 A Persian POS Tagger trained by The Persian Universal Dependency Treebank (Persian UD) with Tensorflow
 
-Keyword Extraction
+Various
 ------------------
 ### [Perke](https://github.com/AlirezaTheH/perke)
 A keyphrase extractor for Persian
