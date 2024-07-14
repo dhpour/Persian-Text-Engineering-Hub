@@ -338,6 +338,9 @@ Useful Persian dictionary and more. Consists of:
 ### [Iranian job title](https://www.kaggle.com/datasets/amirshnll/iranian-job-title)
 The "Iranian Job Title" dataset offers a comprehensive compilation of various job titles prevalent in Iran across diverse industries and sectors.
 
+### [Moeen_thesaurus](https://github.com/kavir1698/Moeen_thesaurus)
+فرهنگِ پیوندِ معناییِ واژه‌ها (بر پایه‌ی فرهنگ معین)
+
 Poetry and Literature
 ---------------------
 ### [hafez-poems-bot](https://github.com/ArminGh02/hafez-poems-bot)
