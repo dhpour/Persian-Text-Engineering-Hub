@@ -182,6 +182,15 @@ The Persian Universal Dependency Treebank (Seraji) is based on Uppsala Persian D
 ### [Virgool Dataset](https://www.kaggle.com/datasets/mehranrafiee/persian-articles-for-labeling)
 This could be a nice tool for Persian writers or bloggers to automatically pick the suggested hashtag or even subject for their articles. We could even collect data from google trend for each hashtag or 'label' used in an article. Consists of 11k+ articles.
 
+### [BBC Persian Archive](https://www.kaggle.com/datasets/malekzadeharman/bbc-persian-archive)
+The file contains 3780 news articles published by BBC Persian. The articles mostly belong to the year 1399 and 1400, and are published before Aban 18th, 1400. Columns are: title, publish_name, link, related_topics, body, category.
+
+### [TasnimNews Dataset (Farsi - Persian) | تسنیم](https://www.kaggle.com/datasets/amirpourmand/tasnimdataset)
+Consists of 63k News articles with following columns: category, title, abstract, body, time.
+
+### [Farsnews-1398](https://www.kaggle.com/datasets/amirhossein76/farsnews1398)
+Yearly collection of the Farsnews agency (1398). Contains 294k News article with following columns: title, abstract, paragraphs, cat, subcat, tags, link.
+
 NER
 ---
 ### [parstwiner](https://github.com/overfit-ir/parstwiner)
