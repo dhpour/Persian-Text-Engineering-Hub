@@ -407,3 +407,9 @@ Hand-written / typed names of different cities of Iran in image format.
 
 ### [PLF Image Dataset](https://www.kaggle.com/datasets/sabermalek/plf50)
  50*50 Images of Persian letters (without dots) with 32 Different Fonts.
+
+Spam
+----
+
+### [persian-sms-spam-word](https://www.kaggle.com/datasets/amirshnll/persiansmsspamword)
+persian sms spam word
