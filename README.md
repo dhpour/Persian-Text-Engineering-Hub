@@ -59,7 +59,7 @@ Word Analyzer
 ### [cpia](https://github.com/lingwndr/cpia)
 Informal and Formal Persian word analyzer (inflection with FST)
 
-### [Perstem](github.com/jonsafari/perstem)
+### [Perstem](https://github.com/jonsafari/perstem)
 Persian stemmer and morphological analyzer
 
 ### [PersianStemmingDataset](https://github.com/htaghizadeh/PersianStemmingDataset/tree/master)
