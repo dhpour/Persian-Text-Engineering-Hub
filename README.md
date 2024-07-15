@@ -226,22 +226,25 @@ Consists of 63k News articles with following columns: category, title, abstract,
 ### [Farsnews-1398](https://www.kaggle.com/datasets/amirhossein76/farsnews1398)
 Yearly collection of the Farsnews agency (1398). Contains 294k News article with following columns: title, abstract, paragraphs, cat, subcat, tags, link.
 
-### [fDigikala Magazine (DigiMag)](https://hooshvare.github.io/docs/datasets/tc#digikala-magazine-digimag)
+### [Digikala Magazine (DigiMag)](https://hooshvare.github.io/docs/datasets/tc#digikala-magazine-digimag)
 A total of 8,515 articles scraped from Digikala Online Magazine. This dataset includes seven different classes: Video Games, Shopping Guide, Health Beauty, Science Technology, General, Art Cinema and Books Literature.
 
 NER
 ---
-### [parstwiner](https://github.com/overfit-ir/parstwiner)
-Name Entity Recognition (NER) on the Persian Twitter dataset.
+### [Persian Twitter NER (ParsTwiner)](https://github.com/overfit-ir/parstwiner)
+Name Entity Recognition (NER) on the Persian Twitter dataset. Consists of 6 entity types: event, location, natinality, organization and pog (political organizations and historical dynasties). ~~12k Named Entities in 232k tokens~~.
 
-### [NSURL-Persian-NER](https://github.com/nasrin-taghizadeh/NSURL-Persian-NER)
-NSURL 2019- Task 7, Named Entity Recognition in Persian
+### [NSURL-2019 task 7: Named Entity Recognition (NER) in Farsi](https://github.com/nasrin-taghizadeh/NSURL-Persian-NER)
+Extends [PEYMA corpus](https://arxiv.org/abs/1801.09936) (300k tokens), with another 600k tokens. Consists of 16 entity types including: date, location, percent number, money, time,  person and organization. ~~48k NEs in 884k tokens~~.
 
-### [PersianNER](https://github.com/HaniehP/PersianNER)
-Named-Entity Recognition in Persian Language
+### [PersianNER (Arman)](https://github.com/HaniehP/PersianNER)
+The dataset includes 250,015 tokens and 7,682 Persian sentences in total. Consists of 6 NE types including: facility, organization, location, event, person and proper noun. ~~37K NEs in 749k tokens~~.
 
 ### [Persian-NER](https://github.com/Text-Mining/Persian-NER)
-پیکره بزرگ شناسایی موجودیت‌های نامدار فارسی برچسب خورده
+Crowd-sourced NE dataset with 5 NE types. ~~2.2M NEs in 25M tokens.~~
+
+### [ParsNER](https://github.com/hooshvare/parsner)
+These dataset is a mixed NER dataset collected from [ARMAN](https://github.com/HaniehP/PersianNER), [PEYMA](https://arxiv.org/abs/1801.09936), and [WikiANN](https://github.com/afshinrahimi/mmner) that covered ten types of entities including: Date, Event, Facility, Location, Money, Organization, Percent, Person, Product and Time. 140K NEs in 40k sentences.
 
 ### [DaMuEL 1.0: A Large Multilingual Dataset for Entity Linking](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-5047)
 
@@ -250,7 +253,7 @@ It is a large Multilingual Dataset for Entity Linking containing data in 53 lang
 ### [xtreme](https://github.com/google-research/xtreme)
 XTREME is a benchmark for the evaluation of the cross-lingual generalization ability of pre-trained multilingual models that covers 40 typologically diverse languages and includes nine tasks. But for `Persian`
 it only consists of:
-- Wikiann named entity recognition
+- [Wikiann named entity recognition](https://github.com/afshinrahimi/mmner)
 - Universal dependencies part-of-speech tagging (rasooli et al.)
 
 Unlabled and Raw
