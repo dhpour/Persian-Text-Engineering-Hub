@@ -179,14 +179,23 @@ Benchmarking ChatGPT for Persian: A Preliminary Study
 - Elemntry school
 - Mathematical problems dataset
 
-Datasets
---------
+QA
+--
 ### [PersianQA](https://github.com/sajjjadayobi/PersianQA)
 Persian (Farsi) Question Answering Dataset (+ Models)
 
+Dpendency Tree
+--------------
 ### [UD_Persian-Seraji](https://github.com/UniversalDependencies/UD_Persian-Seraji)
 The Persian Universal Dependency Treebank (Seraji) is based on Uppsala Persian Dependency Treebank (UPDT). The conversion of the UPDT to the Universal Dependencies was performed semi-automatically with extensive manual checks and corrections.
 
+Entailment
+----------
+### [FarsTail: a Persian natural language inference dataset](https://github.com/dml-qom/FarsTail)
+10k pairs with entailment label.
+
+Datasets
+--------
 ### [Virgool Dataset](https://www.kaggle.com/datasets/mehranrafiee/persian-articles-for-labeling)
 This could be a nice tool for Persian writers or bloggers to automatically pick the suggested hashtag or even subject for their articles. We could even collect data from google trend for each hashtag or 'label' used in an article. Consists of 11k+ articles.
 
