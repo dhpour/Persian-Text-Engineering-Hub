@@ -41,6 +41,14 @@ The all-in-one AI library for Persian, supporting a wide variety of tasks and mo
   - Word2Vec (CBOW)
 - Datasets
 
+### [polyglot](https://github.com/aboSamoor/polyglot)
+Multilingual text (NLP) processing toolkit. Consists of some useful Persian functionalities:
+- Tokenizer (Sentence / Word)
+- NER
+- Morpheme Extracter
+- Language Detector
+
+
 Graheme to phoneme
 ------------------
 ### [persian_phonemizer](https://github.com/de-mh/persian_phonemizer)
