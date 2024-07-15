@@ -184,7 +184,7 @@ QA
 ### [PersianQA](https://github.com/sajjjadayobi/PersianQA)
 Persian (Farsi) Question Answering Dataset (+ Models)
 
-Dpendency Tree
+Dependency Tree
 --------------
 ### [UD_Persian-Seraji](https://github.com/UniversalDependencies/UD_Persian-Seraji)
 The Persian Universal Dependency Treebank (Seraji) is based on Uppsala Persian Dependency Treebank (UPDT). The conversion of the UPDT to the Universal Dependencies was performed semi-automatically with extensive manual checks and corrections.
@@ -230,6 +230,9 @@ Persian real SMS Dataset
 
 ### [Tarjoman (Persian Text) | ترجمان](https://www.kaggle.com/datasets/amirpourmand/tarjoman-persian-text)
 Crawled more than 3k+ articles from tarjoman website.
+
+### [Persian poems corpus](https://github.com/amnghd/Persian_poems_corpus)
+Crawled Ganjoor for poems 48 poets.
 
 Toxic text
 ----------
