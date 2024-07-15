@@ -3,6 +3,42 @@
 
 Curated list of Text libraries, tools and datasets for Persian language.
 
+Topics
+------
+- [Multi-purpose libs](#multi-purpose-libs)
+- [Grapheme to Phoneme](#graheme-to-phoneme)
+- [Word Analyzing](#word-analyzing)
+- [Sentiment Analysis](#sentiment-analysis)
+- [Informal Persian](#informal-persian)
+- [Numbers to Words](#numbers-to-words)
+- [Word Embeddings](#word-embeddings)
+- [Benchmark](#benchmark)
+- [QA](#qa)
+- [Dependency Parsing](#dependency-parsing)
+- [Entailment](#entailment)
+- [Datasets](#datasets)
+- [NER](#ner)
+- [Unlabled and Raw Text](#unlabled-and-raw)
+- [Toxic Text](#toxic-text)
+- [Stop Words List](#stop-words-list)
+- [Spell Checking](#spell-checking)
+- [Normalization](#normalization)
+- [Transliteration](#transliteration)
+- [Encyclopedia and Word Set](#encyclopedia-and-word-set)
+- [Poetry and Literature](#poetry-and-literature)
+- [Audio Dataset](#audio-dataset)
+- [Crawl Suite](#crawl-suite)
+- [POS Tag](#pos-tag)
+- [Various](#various)
+- [Mocking](#mocking)
+- [UI/UX](#uiux)
+- [OCR](#ocr)
+- [Spam](#spam)
+- [Image Captioning](#image-captioning)
+- [Translation](#translation)
+- [Knowledge Graph](#knowledge-graph)
+
+
 Multi-purpose libs
 ------------------
 ### [Parsivar](https://github.com/ICTRC/Parsivar)
@@ -193,8 +229,8 @@ QA
 ### [PersianQA](https://github.com/sajjjadayobi/PersianQA)
 Persian (Farsi) Question Answering Dataset (+ Models)
 
-Dependency
---------------
+Dependency Parsing
+------------------
 ### [The Persian Universal Dependency Treebank (Persian UD)](https://github.com/UniversalDependencies/UD_Persian-Seraji)
 The Persian Universal Dependency Treebank (Seraji) is based on Uppsala Persian Dependency Treebank (UPDT). The conversion of the UPDT to the Universal Dependencies was performed semi-automatically with extensive manual checks and corrections.
 
