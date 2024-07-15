@@ -64,10 +64,22 @@ Persian Grapheme-to-Phoneme (G2P) converter
 ### [persian-words-pronunciation](https://github.com/pfndesign/persian-words-pronunciation)
 list of persian word pronunciations
 
-Word Analyzer
+Word Analyzing
 -------------
 ### [cpia](https://github.com/lingwndr/cpia)
 Informal and Formal Persian word analyzer (inflection with FST)
+
+### [Persian Morphologically Segmented Lexicon 0.5](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-3011)
+This dataset includes 45300 Persian word forms which are manually segmented into sequences of morphemes.
+
+### [Universal Derivations v1.1](https://github.com/lukyjanek/universal-derivations/tree/master/fa/DeriNetFA)
+Universal Derivations (UDer) is a collection of harmonized lexical networks capturing word-formation, especially derivation, in a cross-linguistically consistent annotation scheme for many languages including Persian (semi-automatically). Consists of 7k families, 43k lexemes and 35k relations. [Article](https://aclanthology.org/W19-8511.pdf). [Dataset files](https://lindat.mff.cuni.cz/repository/xmlui/bitstream/handle/11234/1-3247/UDer-1.1.tgz).
+
+### [polyglot](https://github.com/aboSamoor/polyglot)
+A morpheme Extracter for 135 languages including Persian.
+
+### [PARSEME Corpse Fa](https://gitlab.com/parseme/parseme_corpus_fa)
+PARSEME is a verbal multiword expressions (VMWEs) corpus for Farsi. All the annotated data come from a subset of the Farsi section of the [MULTEXT-East "1984"](https://nl.ijs.si/ME/Vault/V4/) annotated corpus 4.0. More than colums of LEMMA UPOS, XPOS, FEATS, HEAD and DEPREL there is also PARSEME:MVE which is manually annotated.
 
 ### [Perstem](https://github.com/jonsafari/perstem)
 Persian stemmer and morphological analyzer
@@ -186,8 +198,15 @@ Persian (Farsi) Question Answering Dataset (+ Models)
 
 Dependency Tree
 --------------
-### [UD_Persian-Seraji](https://github.com/UniversalDependencies/UD_Persian-Seraji)
+### [The Persian Universal Dependency Treebank (Persian UD)](https://github.com/UniversalDependencies/UD_Persian-Seraji)
 The Persian Universal Dependency Treebank (Seraji) is based on Uppsala Persian Dependency Treebank (UPDT). The conversion of the UPDT to the Universal Dependencies was performed semi-automatically with extensive manual checks and corrections.
+
+### [The Persian Universal Dependency Treebank (PerUDT) (v1.0)](https://github.com/UniversalDependencies/UD_Persian-PerDT)
+The Persian Universal Dependency Treebank (PerUDT) is the result of automatic coversion of Persian Dependency Treebank (PerDT) with extensive manual corrections. Consists of 29k sentences.
+
+### [PARSEME Corpse Fa](https://gitlab.com/parseme/parseme_corpus_fa)
+PARSEME is a verbal multiword expressions (VMWEs) corpus for Farsi. All the annotated data come from a subset of the Farsi section of the [MULTEXT-East "1984"](https://nl.ijs.si/ME/Vault/V4/) annotated corpus 4.0. More than colums of LEMMA UPOS, XPOS, FEATS, HEAD and DEPREL there is also PARSEME:MVE which is manually annotated.
+
 
 Entailment
 ----------
@@ -222,7 +241,7 @@ Named-Entity Recognition in Persian Language
 ### [Persian-NER](https://github.com/Text-Mining/Persian-NER)
 پیکره بزرگ شناسایی موجودیت‌های نامدار فارسی برچسب خورده
 
-Unlabled
+Unlabled and Raw
 --------
 
 ### [persian sms dataset](https://www.kaggle.com/datasets/amirshnll/persian-sms-dataset)
@@ -233,6 +252,9 @@ Crawled more than 3k+ articles from tarjoman website.
 
 ### [Persian poems corpus](https://github.com/amnghd/Persian_poems_corpus)
 Crawled Ganjoor for poems 48 poets.
+
+### [Large-Scale Colloquial Persian](https://iasbs.ac.ir/~ansari/lscp/)
+27M tweets. Although these texts have been labeled or translated using various NLP toolkits, they have never been supervised.
 
 Toxic text
 ----------
@@ -433,10 +455,13 @@ a crawler to fetch last news from Iranian(Persian) news agencies.
 ### [PersianCrawler](https://github.com/pourmand1376/PersianCrawler)
 Open source crawler for Persian websites including Asriran, fa-Wikipedia, Tasnim, Isna.
 
-POS Tagger
+POS Tag
 ----------
 ### [Persian_POS_Tagger](https://github.com/AminMozhgani/Persian_POS_Tagger)
 A Persian POS Tagger trained by The Persian Universal Dependency Treebank (Persian UD) with Tensorflow
+
+### [PARSEME Corpse Fa](https://gitlab.com/parseme/parseme_corpus_fa)
+PARSEME is a verbal multiword expressions (VMWEs) corpus for Farsi. All the annotated data come from a subset of the Farsi section of the [MULTEXT-East "1984"](https://nl.ijs.si/ME/Vault/V4/) annotated corpus 4.0. More than colums of LEMMA UPOS, XPOS, FEATS, HEAD and DEPREL there is also PARSEME:MVE which is manually annotated.
 
 Various
 ------------------
