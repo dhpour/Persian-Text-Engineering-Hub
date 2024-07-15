@@ -73,13 +73,16 @@ Informal and Formal Persian word analyzer (inflection with FST)
 This dataset includes 45300 Persian word forms which are manually segmented into sequences of morphemes.
 
 ### [Universal Derivations v1.1](https://github.com/lukyjanek/universal-derivations/tree/master/fa/DeriNetFA)
-Universal Derivations (UDer) is a collection of harmonized lexical networks capturing word-formation, especially derivation, in a cross-linguistically consistent annotation scheme for many languages including Persian (semi-automatically). Consists of 7k families, 43k lexemes and 35k relations. [Article](https://aclanthology.org/W19-8511.pdf). [Dataset files](https://lindat.mff.cuni.cz/repository/xmlui/bitstream/handle/11234/1-3247/UDer-1.1.tgz).
+Universal Derivations (UDer) is a collection of harmonized lexical networks capturing word-formation, especially derivation, in a cross-linguistically consistent annotation scheme for many languages including `Persian` (semi-automatically). Consists of 7k families, 43k lexemes and 35k relations. [Article](https://aclanthology.org/W19-8511.pdf). [Dataset files](https://lindat.mff.cuni.cz/repository/xmlui/bitstream/handle/11234/1-3247/UDer-1.1.tgz).
 
 ### [polyglot](https://github.com/aboSamoor/polyglot)
-A morpheme Extracter for 135 languages including Persian.
+A morpheme Extracter for 135 languages including `Persian`.
 
 ### [PARSEME Corpse Fa](https://gitlab.com/parseme/parseme_corpus_fa)
 PARSEME is a verbal multiword expressions (VMWEs) corpus for Farsi. All the annotated data come from a subset of the Farsi section of the [MULTEXT-East "1984"](https://nl.ijs.si/ME/Vault/V4/) annotated corpus 4.0. More than colums of LEMMA UPOS, XPOS, FEATS, HEAD and DEPREL there is also PARSEME:MVE which is manually annotated.
+
+### [Universal Segmentations](https://ufal.mff.cuni.cz/universal-segmentations)
+Universal Segmentations (UniSegments) is a collection of lexical resources capturing morphological segmentations harmonised into a cross-linguistically consistent annotation scheme for many languages including `Persian`. The annotation scheme consists of simple tab-separated columns that stores a word and its morphological segmentations, including pieces of information about the word and the segmented units, e.g., part-of-speech categories, type of morphs/morphemes etc. It also has a [python library](https://github.com/ufal/universal-segmentations) or creating such data from text. This dataset consists of 45k Persian words.
 
 ### [Perstem](https://github.com/jonsafari/perstem)
 Persian stemmer and morphological analyzer
@@ -163,7 +166,7 @@ A Persian Word2Vec Model trained by Wikipedia articles
 
 Benchmark
 ---------
-### [parsinlu](https://github.com/persiannlp/parsinlu)
+### [ParsiNLU](https://github.com/persiannlp/parsinlu)
 A comprehensive suite of high-level NLP tasks for Persian language
 - Text entailment
 - Query paraphrasing
@@ -180,12 +183,6 @@ ParsBench provides toolkits for benchmarking LLMs based on the Persian language 
 - ConjNLI Entailment
 - Persian MMLU (khayyam Chanllenge)
 
-### [xtreme](https://github.com/google-research/xtreme)
-XTREME is a benchmark for the evaluation of the cross-lingual generalization ability of pre-trained multilingual models that covers 40 typologically diverse languages and includes nine tasks.
-Persian datasets consist of:
-- Universal dependencies part-of-speech tagging
-- Wikiann named entity recognition
-
 ### [Benchmarking_ChatGPT_for_Persian](https://github.com/Ipouyall/Benchmarking_ChatGPT_for_Persian)
 Benchmarking ChatGPT for Persian: A Preliminary Study
 - Elemntry school
@@ -196,7 +193,7 @@ QA
 ### [PersianQA](https://github.com/sajjjadayobi/PersianQA)
 Persian (Farsi) Question Answering Dataset (+ Models)
 
-Dependency Tree
+Dependency
 --------------
 ### [The Persian Universal Dependency Treebank (Persian UD)](https://github.com/UniversalDependencies/UD_Persian-Seraji)
 The Persian Universal Dependency Treebank (Seraji) is based on Uppsala Persian Dependency Treebank (UPDT). The conversion of the UPDT to the Universal Dependencies was performed semi-automatically with extensive manual checks and corrections.
@@ -207,6 +204,8 @@ The Persian Universal Dependency Treebank (PerUDT) is the result of automatic co
 ### [PARSEME Corpse Fa](https://gitlab.com/parseme/parseme_corpus_fa)
 PARSEME is a verbal multiword expressions (VMWEs) corpus for Farsi. All the annotated data come from a subset of the Farsi section of the [MULTEXT-East "1984"](https://nl.ijs.si/ME/Vault/V4/) annotated corpus 4.0. More than colums of LEMMA UPOS, XPOS, FEATS, HEAD and DEPREL there is also PARSEME:MVE which is manually annotated.
 
+### [UDPipe 2](https://github.com/ufal/udpipe/tree/udpipe-2)
+UDPipe: Trainable pipeline for tokenizing, tagging, lemmatizing and parsing Universal Treebanks and other CoNLL-U files.
 
 Entailment
 ----------
@@ -227,6 +226,9 @@ Consists of 63k News articles with following columns: category, title, abstract,
 ### [Farsnews-1398](https://www.kaggle.com/datasets/amirhossein76/farsnews1398)
 Yearly collection of the Farsnews agency (1398). Contains 294k News article with following columns: title, abstract, paragraphs, cat, subcat, tags, link.
 
+### [fDigikala Magazine (DigiMag)](https://hooshvare.github.io/docs/datasets/tc#digikala-magazine-digimag)
+A total of 8,515 articles scraped from Digikala Online Magazine. This dataset includes seven different classes: Video Games, Shopping Guide, Health Beauty, Science Technology, General, Art Cinema and Books Literature.
+
 NER
 ---
 ### [parstwiner](https://github.com/overfit-ir/parstwiner)
@@ -240,6 +242,16 @@ Named-Entity Recognition in Persian Language
 
 ### [Persian-NER](https://github.com/Text-Mining/Persian-NER)
 پیکره بزرگ شناسایی موجودیت‌های نامدار فارسی برچسب خورده
+
+### [DaMuEL 1.0: A Large Multilingual Dataset for Entity Linking](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-5047)
+
+It is a large Multilingual Dataset for Entity Linking containing data in 53 languages including `Persian`. DaMuEL consists of two components: a knowledge base that contains language-agnostic information about entities, including their claims from Wikidata and named entity types (PER, ORG, LOC, EVENT, BRAND, WORK_OF_ART, MANUFACTURED); and Wikipedia texts with entity mentions linked to the knowledge base, along with language-specific text from Wikidata such as labels, aliases, and descriptions, stored separately for each language. [Paper](https://arxiv.org/pdf/2306.09288). For this project UDPipe has been used.
+
+### [xtreme](https://github.com/google-research/xtreme)
+XTREME is a benchmark for the evaluation of the cross-lingual generalization ability of pre-trained multilingual models that covers 40 typologically diverse languages and includes nine tasks. But for `Persian`
+it only consists of:
+- Wikiann named entity recognition
+- Universal dependencies part-of-speech tagging (rasooli et al.)
 
 Unlabled and Raw
 --------
@@ -523,3 +535,7 @@ Knowledge Graph
 
 ### [PERLEX](http://farsbase.net/PERLEX.html)
 2.7k Relation of entities with translation and relation type.
+
+### [DaMuEL 1.0: A Large Multilingual Dataset for Entity Linking](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-5047)
+
+It is a large Multilingual Dataset for Entity Linking containing data in 53 languages including `Persian`. DaMuEL consists of two components: a knowledge base that contains language-agnostic information about entities, including their claims from Wikidata and named entity types (PER, ORG, LOC, EVENT, BRAND, WORK_OF_ART, MANUFACTURED); and Wikipedia texts with entity mentions linked to the knowledge base, along with language-specific text from Wikidata such as labels, aliases, and descriptions, stored separately for each language. [Paper](https://arxiv.org/pdf/2306.09288). For this project UDPipe has been used.
