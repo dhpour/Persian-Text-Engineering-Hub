@@ -219,6 +219,9 @@ Unlabled
 ### [persian sms dataset](https://www.kaggle.com/datasets/amirshnll/persian-sms-dataset)
 Persian real SMS Dataset
 
+### [Tarjoman (Persian Text) | ترجمان](https://www.kaggle.com/datasets/amirpourmand/tarjoman-persian-text)
+Crawled more than 3k+ articles from tarjoman website.
+
 Toxic text
 ----------
 ### [Persian-Abusive-Words](https://github.com/mohamad-dehghani/Persian-Abusive-Words)
