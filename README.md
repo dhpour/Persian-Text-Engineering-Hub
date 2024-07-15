@@ -481,3 +481,8 @@ Persian language movies dataset from imvbox.com. 14k movies with storyline trans
 ### [The Holy Quran](https://www.kaggle.com/datasets/zusmani/the-holy-quran)
 Quran ayat with translation in 21 languages.
 
+Knowledge Graph
+---------------
+
+### [PERLEX](http://farsbase.net/PERLEX.html)
+2.7k Relation of entities with translation and relation type.
