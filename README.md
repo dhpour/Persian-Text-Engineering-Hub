@@ -616,3 +616,14 @@ Knowledge Graph
 ### [DaMuEL 1.0: A Large Multilingual Dataset for Entity Linking](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-5047)
 
 It is a large Multilingual Dataset for Entity Linking containing data in 53 languages including `Persian`. DaMuEL consists of two components: a knowledge base that contains language-agnostic information about entities, including their claims from Wikidata and named entity types (PER, ORG, LOC, EVENT, BRAND, WORK_OF_ART, MANUFACTURED); and Wikipedia texts with entity mentions linked to the knowledge base, along with language-specific text from Wikidata such as labels, aliases, and descriptions, stored separately for each language. [Paper](https://arxiv.org/pdf/2306.09288). For this project UDPipe has been used.
+
+Summary
+-------
+### [TasnimNews Dataset (Farsi - Persian) | تسنیم](https://www.kaggle.com/datasets/amirpourmand/tasnimdataset)
+Consists of 63k News articles with following columns: category, title, `abstract`, body, time.
+
+### [Farsnews-1398](https://www.kaggle.com/datasets/amirhossein76/farsnews1398)
+Yearly collection of the Farsnews agency (1398). Contains 294k News article with following columns: title, `abstract`, paragraphs, cat, subcat, tags, link.
+
+### [Wiki Summary](https://github.com/m3hrdadfi/wiki-summary)
+95k documents with body and summery extracted from wikipedia Persian articles. There is also notebook to create and test models for summerization.
