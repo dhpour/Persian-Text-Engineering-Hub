@@ -38,6 +38,8 @@ Topics
 - [Translation](#translation)
 - [Knowledge Graph](#knowledge-graph)
 - [Summery](#summary)
+- [Paraphrase](#paraphrase)
+
 
 Multi-purpose libs
 ------------------
@@ -252,6 +254,12 @@ QA
 --
 ### [PersianQA](https://github.com/sajjjadayobi/PersianQA)
 Persian (Farsi) Question Answering Dataset (+ Models)
+
+### [MeDiaPQA: A Question-Answering Dataset on Persian Medical Dialogues](https://data.mendeley.com/datasets/k7tzmrhr6n/1)
+Medical Question Answering dataset consists of 15k dialogs in 70 specialities.
+
+### [Persian-QA-Wikipedia](https://www.kaggle.com/datasets/amirpourmand/persian-qa-wikipedia)
+26k QA and related excerpt extracted from Persian wikipedia. Some of the questions can not be answered based on the given excerpt by design (like SQuAD2.0).
 
 Dependency Parsing
 ------------------
@@ -598,6 +606,9 @@ Coco 2017 translated to Persian language.
 ### [Iranis dataset](https://github.com/alitourani/Iranis-dataset)
 Dataset of Farsi License Plate Characters (83k).
 
+### [ParsVQA-Caps](https://www.kaggle.com/datasets/af4f893668e3aef3610b813604b366eeecd26177aa105581c85fd4dd7ac5aa51)
+The VQA dataset consists of almost 11k images and 28.5k question and answer pairs with short and long answers usable for both classification and generation VQA.
+
 Translation
 -----------
 
@@ -617,6 +628,9 @@ Knowledge Graph
 
 It is a large Multilingual Dataset for Entity Linking containing data in 53 languages including `Persian`. DaMuEL consists of two components: a knowledge base that contains language-agnostic information about entities, including their claims from Wikidata and named entity types (PER, ORG, LOC, EVENT, BRAND, WORK_OF_ART, MANUFACTURED); and Wikipedia texts with entity mentions linked to the knowledge base, along with language-specific text from Wikidata such as labels, aliases, and descriptions, stored separately for each language. [Paper](https://arxiv.org/pdf/2306.09288). For this project UDPipe has been used.
 
+### [FarsBase](http://farsbase.net/about)
+A knowledge graph platform for extracting from wikipedia, tables and unstructured texts. There is also a part of its data available for download.
+
 Summary
 -------
 ### [TasnimNews Dataset (Farsi - Persian) | تسنیم](https://www.kaggle.com/datasets/amirpourmand/tasnimdataset)
@@ -627,3 +641,9 @@ Yearly collection of the Farsnews agency (1398). Contains 294k News article with
 
 ### [Wiki Summary](https://github.com/m3hrdadfi/wiki-summary)
 95k documents with body and summery extracted from wikipedia Persian articles. There is also notebook to create and test models for summerization.
+
+Paraphrase
+----------
+
+### [ExaPPC](https://github.com/exaco/exappc)
+Paraphrase data for Persian. It consists of 2.3M sentence pairs of which 1M of them are paraphrase and 1.3M are not parapharse of each other.
