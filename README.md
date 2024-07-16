@@ -125,11 +125,11 @@ Universal Segmentations (UniSegments) is a collection of lexical resources captu
 ### [Perstem](https://github.com/jonsafari/perstem)
 Persian stemmer and morphological analyzer
 
-### [PersianStemmingDataset](https://github.com/htaghizadeh/PersianStemmingDataset/tree/master)
-Persian Stemming data-set in order to evaluate new stemmers
+### [Persian Stemming Dataset](https://github.com/htaghizadeh/PersianStemmingDataset/tree/master)
+Consists of two stemmeing sets. 1) 4k words from [Bootstrapping the Development of an HPSG-based Treebank for Persian](https://journals.colorado.edu/index.php/lilt/article/view/1301/1133) and 2) 27k words from [A syntactic valency lexicon for Persian verbs : The first steps towards Persian dependency treebank](https://www.researchgate.net/profile/Mohammad-Sadegh-Rasooli/publication/230612993_A_Syntactic_Valency_Lexicon_for_Persian_Verbs_The_First_Steps_towards_Persian_Dependency_Treebank/links/0912f50251db69938a000000/A-Syntactic-Valency-Lexicon-for-Persian-Verbs-The-First-Steps-towards-Persian-Dependency-Treebank.pdf).
 
-### [PersianStemmer-Python](https://github.com/htaghizadeh/PersianStemmer-Python)
-PersianStemmer-Python
+### [Persian Stemmer Python](https://github.com/htaghizadeh/PersianStemmer-Python)
+A stemmer for Persian based on [A new hybrid stemming method for persian language](https://github.com/htaghizadeh/PersianStemmer-Python)
 
 Sentiment Analysis
 ------------------
@@ -361,7 +361,7 @@ A collection of Persian stopwords. Consists of:
 
 [All combined](https://github.com/rahmanidashti/PersianStopWords/)
 
-### [Different sources](#)
+### Different sources
 - [Lucene](https://gist.github.com/lingwndr/cd25e0affff5e921f7ebfb1e40dfe937)
 - [Hazm](https://github.com/sobhe/hazm/blob/master/hazm/data/stopwords.dat)
 - [awesome list](https://github.com/mhbashari/awesome-persian-nlp-ir/blob/master/stopwords.txt)
@@ -646,3 +646,8 @@ Paraphrase
 
 ### [ExaPPC](https://github.com/exaco/exappc)
 Paraphrase data for Persian. It consists of 2.3M sentence pairs of which 1M of them are paraphrase and 1.3M are not parapharse of each other.
+
+WSD
+---
+### [SBU WSD Corpus](https://github.com/hrouhizadeh/SBU-WSD-Corpus)
+SBU-WSD-Corpus: A Sense Annotated Corpus for Persian All-words Word Sense Disambiguation.
