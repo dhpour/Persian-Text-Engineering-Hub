@@ -1,11 +1,11 @@
 name: Links
 
-on: #[push]
-  repository_dispatch:
-  workflow_dispatch:
-  schedule:
-    - cron: "00 19 * * *"
-#permissions: write-all
+on: [push]
+  #repository_dispatch:
+  #workflow_dispatch:
+  #schedule:
+    #- cron: "00 19 * * *"
+permissions: write-all
 jobs:
   linkChecker:
     runs-on: ubuntu-latest
