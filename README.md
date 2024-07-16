@@ -361,7 +361,7 @@ A collection of Persian stopwords. Consists of:
 
 [All combined](https://github.com/rahmanidashti/PersianStopWords/)
 
-### [Different sources]()
+### [Different sources](#)
 - [Lucene](https://gist.github.com/lingwndr/cd25e0affff5e921f7ebfb1e40dfe937)
 - [Hazm](https://github.com/sobhe/hazm/blob/master/hazm/data/stopwords.dat)
 - [awesome list](https://github.com/mhbashari/awesome-persian-nlp-ir/blob/master/stopwords.txt)
