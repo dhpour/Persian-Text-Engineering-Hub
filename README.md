@@ -350,21 +350,23 @@ Remove Persian (Farsi) Swear Words
 ### [Persian Swear Words](https://github.com/amirshnll/Persian-Swear-Words)
 Persian Swear Dataset - you can use in your production to filter unwanted content. دیتاست کلمات نامناسب و بد فارسی برای فیلتر کردن متن ها
 
-Stop words list
+Stop word list
 ---------------
 
-### [PersianStopWords](https://github.com/rahmanidashti/PersianStopWords/)
-A complete list of Persian stop words
+### [Persian stopwords collection](https://github.com/ziaa/Persian-stopwords-collection)
+A collection of Persian stopwords. Consists of:
+- [persian-stop-word](https://github.com/semnan-university-ai/persian-stop-word)
+- [persian-stopwords](https://github.com/kharazi/persian-stopwords)
+- and 5 other lists.
 
-### [persian-stop-word](https://github.com/semnan-university-ai/persian-stop-word)
-persian stop word data
+[All combined](https://github.com/rahmanidashti/PersianStopWords/)
 
-### [persian-stopwords](https://github.com/kharazi/persian-stopwords)
-Persian (Farsi) Stop Words List
+### [Different sources]()
+- [Lucene](https://gist.github.com/lingwndr/cd25e0affff5e921f7ebfb1e40dfe937)
+- [Hazm](https://github.com/sobhe/hazm/blob/master/hazm/data/stopwords.dat)
+- [awesome list](https://github.com/mhbashari/awesome-persian-nlp-ir/blob/master/stopwords.txt)
+- [Dehghani](https://github.com/mohamad-dehghani/Semi-automatic-Detection-of-Persian-Stopwords-using-FastText-Library-/blob/main/pers_word.txt)
 
-### [Persian-stopwords-collection](https://github.com/ziaa/Persian-stopwords-collection)
-A collection of Persian stopwords - فهرست کلمات ایست فارسی
-list other stop words collections (7 repos)
 
 ### [stopwords-fa](https://github.com/stopwords-iso/stopwords-fa)
 Persian stopwords collection
