@@ -620,7 +620,7 @@ Coco 2017 translated to Persian language.
 ### [Iranis dataset](https://github.com/alitourani/Iranis-dataset)
 Dataset of Farsi License Plate Characters (83k).
 
-### [ParsVQA-Caps](https://www.kaggle.com/datasets/af4f893668e3aef3610b813604b366eeecd26177aa105581c85fd4dd7ac5aa51)
+### [ParsVQA-Caps](https://www.kaggle.com/datasets/maryamsadathashemi/parsvqacaps)
 The VQA dataset consists of almost 11k images and 28.5k question and answer pairs with short and long answers usable for both classification and generation VQA.
 
 Translation
