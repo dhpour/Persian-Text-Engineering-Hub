@@ -10,7 +10,7 @@ Topics
 - [Word Analyzing](#word-analyzing)
 - [Sentiment Analysis](#sentiment-analysis)
 - [Informal Persian](#informal-persian)
-- [Numbers to Words](#numbers-to-words)
+- [Numbers <> Words](#numbers--words)
 - [Word Embeddings](#word-embeddings)
 - [Benchmark](#benchmark)
 - [QA](#qa)
@@ -26,9 +26,9 @@ Topics
 - [Transliteration](#transliteration)
 - [Encyclopedia and Word Set](#encyclopedia-and-word-set)
 - [Poetry and Literature](#poetry-and-literature)
-- [Audio Dataset](#audio-dataset)
+- [Audio Dataset](#audio)
 - [Crawl Suite](#crawl-suite)
-- [POS Tag](#pos-tag)
+- [POS Tagging](#pos-tagging)
 - [Various](#various)
 - [Mocking](#mocking)
 - [UI/UX](#uiux)
@@ -82,8 +82,8 @@ The all-in-one AI library for Persian, supporting a wide variety of tasks and mo
 ### [polyglot](https://github.com/aboSamoor/polyglot)
 Multilingual text (NLP) processing toolkit. Consists of some useful Persian functionalities:
 - Tokenizer (Sentence / Word)
-- NER
-- Morpheme Extracter
+- Named Entity Recognition
+- Morpheme Extractor
 - Language Detector
 
 
@@ -101,6 +101,9 @@ Persian Grapheme-to-Phoneme (G2P) converter
 
 ### [Persian Words Pronunciation](https://github.com/pfndesign/persian-words-pronunciation)
 list of persian word pronunciations
+
+### [Persian text to speech](https://github.com/AlisterTA/Persian-text-to-speech)
+It is a convolutional sequence to sequence model created based on [Tachibana et al](https://arxiv.org/abs/1710.08969) with modifications. This repo consists of notebooks to do the training and inferencing and provides proper datasets to do so.
 
 Word Analyzing
 -------------
@@ -205,7 +208,7 @@ Persian Slang Words (dataset)
 ### [Informal Persian Universal Dependency Treebank (iPerUDT)](https://github.com/royakabiri/iPerUDT)
 Informal Persian Universal Dependency Treebank, consisting of 3000 sentences and 54,904 tokens, is an open source collection of colloquial informal texts from Persian blogs.
 
-Numbers to words
+Numbers <> Words
 ----------------
 
 ### [NumToPersian](https://github.com/Shahnazi2002/NumToPersian)
@@ -217,8 +220,17 @@ Read me this number python -- Convert number to Persian -- تبدیل عدد ب�
 ### [PersianNumberToWord](https://github.com/razavioo/PersianNumberToWord)
 Convert numbers to Persian words.
 
-### [dpern](https://github.com/amishbni/dpern)
+### [DPERN](https://github.com/amishbni/dpern)
 Describe PERsian Numbers
+
+### [ParsiNorm](https://github.com/haraai/ParsiNorm)
+A normalizer which do a lot about numbers, both ways.
+
+### [Persian Tools](https://github.com/persian-tools/py-persian-tools)
+Handling various number types in Persian text (like National ID, Sheba, etc)
+
+### [petit](https://github.com/JKhakpour/petit)
+Persian text -> integer, ineteger -> text converter
 
 Word Embeddings
 ---------------
@@ -423,6 +435,12 @@ Virastar is a Persian text cleaner (JS).
 - [PHP version 2](https://github.com/AlirezaSedghi/Virastar)
 - [TypeScript version](https://github.com/nekofar/virastar)
 
+### [Farsi Analyzer](https://github.com/NarimanN2/ParsiAnalyzer)
+A Persian normalization and tokenization tool, constructed as a plugin for Elasticsearch.
+
+### [ParsiNorm](https://github.com/haraai/ParsiNorm)
+A normalizer which do a lot about numbers, both ways.
+
 Transliteration
 ---------------
 ### [Tajik-to-Persian transliteration](https://github.com/stibiumghost/tajik-to-persian-transliteration)
@@ -528,7 +546,7 @@ Collection of Persian Modernist Poetry from Iranian contemporary poets
 ### [Persian Poems Corpus](https://github.com/amnghd/Persian_poems_corpus)
 Crawled Ganjoor for poems of 48 poets.
 
-Audio Dataset
+Audio
 -------------
 ### [PSDR](https://github.com/Ralireza/PSDR)
 Persian spoken digit recognition
@@ -547,10 +565,13 @@ This ~2.5-hour Single-Speaker Speech corpus.
 A semi-natural db which contains emotional speech samples of Persian speakers. The database includes 3000 semi-natural utterances, equivalent to 3 h and 25 min of speech data extracted from online radio plays.
 
 ### [Speech to Text](https://github.com/shenasa-ai/speech2text)
-A Deep-Learning-Based Persian Speech Recognition System. Takes advantage of various ASR platforms to create models for ASR. Also it uses various datasets including Mozzila CommonVoice and their own dtaset which consists of 300h+ audio and transcription.
+A Deep-Learning-Based Persian Speech Recognition System. Takes advantage of various ASR platforms to create models for ASR. Also it uses various datasets including Mozzila CommonVoice and their own dataset which consists of 300h+ audio and transcription.
 
 ### [PCVC Speech Dataset](https://www.kaggle.com/datasets/sabermalek/pcvcspeech)
 Phoneme based speech dataset.
+
+### [Vosk](https://github.com/alphacep/vosk-api)
+Open-source tool for speech recognition for various platforms and OSes, supprting 20 languages including `Persian`.
 
 Crawl Suite
 -----------
@@ -563,13 +584,30 @@ a crawler to fetch last news from Iranian(Persian) news agencies.
 ### [PersianCrawler](https://github.com/pourmand1376/PersianCrawler)
 Open source crawler for Persian websites including Asriran, fa-Wikipedia, Tasnim, Isna.
 
-POS Tag
+POS Tagging
 ----------
 ### [Persian_POS_Tagger](https://github.com/AminMozhgani/Persian_POS_Tagger)
 A Persian POS Tagger trained by The Persian Universal Dependency Treebank (Persian UD) with Tensorflow
 
 ### [PARSEME Corpse Fa](https://gitlab.com/parseme/parseme_corpus_fa)
 PARSEME is a verbal multiword expressions (VMWEs) corpus for Farsi. All the annotated data come from a subset of the Farsi section of the [MULTEXT-East "1984"](https://nl.ijs.si/ME/Vault/V4/) annotated corpus 4.0. More than colums of LEMMA UPOS, XPOS, FEATS, HEAD and DEPREL there is also PARSEME:MVE which is manually annotated.
+
+### Multi-purpose tools with POS Tagging capability
+- [Parsivar](https://github.com/ICTRC/Parsivar)
+
+- [Hazm](https://github.com/roshan-research/hazm)
+
+- [Hezar](https://github.com/hezarai/hezar)
+
+### [Farsi NLP Tools](https://github.com/wfeely/farsiNLPTools)
+Scripts and model developed for POS Tagging and Dependency Parsing Persian based on [TurboParser](http://www.ark.cs.cmu.edu/TurboParser).
+
+### [RDR POS Tagger](https://github.com/datquocnguyen/RDRPOSTagger)
+RDRPOSTagger is supports pre-trained UPOS, XPOS and morphological tagging models for about 80 languages including `Persian`. [Java version](https://github.com/datquocnguyen/jPTDP).
+
+### [Wav2Vec2-Large-XLSR-53-Persian V3](https://huggingface.co/m3hrdadfi/wav2vec2-large-xlsr-persian-v3)
+It is a wav2vec model fine-tuned on Mozzila CommonVoice Persian dataset. The model and the notebook to recreate the model with extra data are avaialble. 
+
 
 Various
 ------------------
@@ -653,6 +691,9 @@ It is a large Multilingual Dataset for Entity Linking containing data in 53 lang
 
 ### [FarsBase](http://farsbase.net/about)
 A knowledge graph platform for extracting from wikipedia, tables and unstructured texts. There is also a part of its data available for download.
+
+### [Baaz](https://github.com/roshan-research/openie)
+Open information extraction from Persian web.
 
 Summary
 -------
