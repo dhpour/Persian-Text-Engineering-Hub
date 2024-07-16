@@ -20,7 +20,7 @@ Topics
 - [NER](#ner)
 - [Unlabled and Raw Text](#unlabled-and-raw)
 - [Toxic Text](#toxic-text)
-- [Stop Words List](#stop-words-list)
+- [Stop Word List](#stop-word-list)
 - [Spell Checking](#spell-checking)
 - [Normalization](#normalization)
 - [Transliteration](#transliteration)
@@ -366,10 +366,7 @@ A collection of Persian stopwords. Consists of:
 - [Hazm](https://github.com/sobhe/hazm/blob/master/hazm/data/stopwords.dat)
 - [awesome list](https://github.com/mhbashari/awesome-persian-nlp-ir/blob/master/stopwords.txt)
 - [Dehghani](https://github.com/mohamad-dehghani/Semi-automatic-Detection-of-Persian-Stopwords-using-FastText-Library-/blob/main/pers_word.txt)
-
-
-### [stopwords-fa](https://github.com/stopwords-iso/stopwords-fa)
-Persian stopwords collection
+- [stopwords-fa](https://github.com/stopwords-iso/stopwords-fa/blob/master/stopwords-fa.txt)
 
 ### [Persian StopWords](https://www.kaggle.com/datasets/saeedtqp/sttoppword)
 Consists of about 2k stop words.
