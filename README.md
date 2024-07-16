@@ -87,22 +87,22 @@ Multilingual text (NLP) processing toolkit. Consists of some useful Persian func
 
 Graheme to phoneme
 ------------------
-### [persian_phonemizer](https://github.com/de-mh/persian_phonemizer)
+### [Persian Phonemizer](https://github.com/de-mh/persian_phonemizer)
 
 A tool for translating Persian text to IPA (International Phonetic Alphabet).
 
-### [g2p_fa](https://github.com/de-mh/g2p_fa)
+### [G2P Fa](https://github.com/de-mh/g2p_fa)
 A Grapheme to Phoneme model using LSTM implemented in pytorch
 
 ### [PersianG2P](https://github.com/PasaOpasen/PersianG2P)
 Persian Grapheme-to-Phoneme (G2P) converter
 
-### [persian-words-pronunciation](https://github.com/pfndesign/persian-words-pronunciation)
+### [Persian Words Pronunciation](https://github.com/pfndesign/persian-words-pronunciation)
 list of persian word pronunciations
 
 Word Analyzing
 -------------
-### [cpia](https://github.com/lingwndr/cpia)
+### [CPIA - Contemporary Persian Inflectional Analyzer](https://github.com/lingwndr/cpia)
 Informal and Formal Persian word analyzer (inflection with FST)
 
 ### [Persian Morphologically Segmented Lexicon 0.5](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-3011)
@@ -173,10 +173,10 @@ Informal Persian
 ### [Shekasteh](https://github.com/rasoolims/Shekasteh)
 Shekasteh is an evaluation dataset for Persian colloquial text. It comes from different genres, including blog posts, movie subtitles, and forum chats.
 
-### [cpia](https://github.com/lingwndr/cpia)
+### [CPIA](https://github.com/lingwndr/cpia)
 Informal and Formal Persian word analyzer (inflection with FST)
 
-### [persian-slang](https://github.com/semnan-university-ai/persian-slang)
+### [Persian Slang](https://github.com/semnan-university-ai/persian-slang)
 Persian Slang Words (dataset)
 
 Numbers to words
@@ -185,7 +185,7 @@ Numbers to words
 ### [NumToPersian](https://github.com/Shahnazi2002/NumToPersian)
 تبدیل عدد به حروف با پایتون
 
-### [num2words](https://github.com/saeed-raeisi/num2words)
+### [Convert numbers to Persian words](https://github.com/saeed-raeisi/num2words)
 Read me this number python -- Convert number to Persian -- تبدیل عدد به فارسی
 
 ### [PersianNumberToWord](https://github.com/razavioo/PersianNumberToWord)
@@ -197,10 +197,10 @@ Describe PERsian Numbers
 Word Embeddings
 ---------------
 
-### [Persian-Word-Embedding](https://github.com/miladfa7/Persian-Word-Embedding)
+### [Persian Word Embedding](https://github.com/miladfa7/Persian-Word-Embedding)
 Persian Word Embedding using FastText, BERT, GPT and GloVe | تعبیه کلمات فارسی با روش های مختلف
 
-### [Persian_Word2Vec](https://github.com/AminMozhgani/Persian_Word2Vec)
+### [Persian Word2Vec](https://github.com/AminMozhgani/Persian_Word2Vec)
 A Persian Word2Vec Model trained by Wikipedia articles
 
 Benchmark
@@ -214,7 +214,7 @@ A comprehensive suite of high-level NLP tasks for Persian language
 - Machine translation
 - Sentiment analysis
 
-### [parsbench](https://github.com/shahriarshm/parsbench)
+### [ParsBench - pb](https://github.com/shahriarshm/parsbench)
 ParsBench provides toolkits for benchmarking LLMs based on the Persian language tasks.
 - ParsiNLU all tasks
 - Persian NER
@@ -222,7 +222,7 @@ ParsBench provides toolkits for benchmarking LLMs based on the Persian language 
 - ConjNLI Entailment
 - Persian MMLU (khayyam Chanllenge)
 
-### [Benchmarking_ChatGPT_for_Persian](https://github.com/Ipouyall/Benchmarking_ChatGPT_for_Persian)
+### [Benchmarking ChatGPT for Persian](https://github.com/Ipouyall/Benchmarking_ChatGPT_for_Persian)
 Benchmarking ChatGPT for Persian: A Preliminary Study
 - Elemntry school
 - Mathematical problems dataset
@@ -298,13 +298,13 @@ it only consists of:
 Unlabled and Raw
 --------
 
-### [persian sms dataset](https://www.kaggle.com/datasets/amirshnll/persian-sms-dataset)
+### [Persian SMS Dataset](https://www.kaggle.com/datasets/amirshnll/persian-sms-dataset)
 Persian real SMS Dataset
 
 ### [Tarjoman (Persian Text) | ترجمان](https://www.kaggle.com/datasets/amirpourmand/tarjoman-persian-text)
 Crawled more than 3k+ articles from tarjoman website.
 
-### [Persian poems corpus](https://github.com/amnghd/Persian_poems_corpus)
+### [Persian Poems Corpus](https://github.com/amnghd/Persian_poems_corpus)
 Crawled Ganjoor for poems 48 poets.
 
 ### [Large-Scale Colloquial Persian](https://iasbs.ac.ir/~ansari/lscp/)
@@ -312,13 +312,13 @@ Crawled Ganjoor for poems 48 poets.
 
 Toxic text
 ----------
-### [Persian-Abusive-Words](https://github.com/mohamad-dehghani/Persian-Abusive-Words)
+### [Persian Abusive Words](https://github.com/mohamad-dehghani/Persian-Abusive-Words)
 We created a dataset of 33338 Persian tweets, of which 10% contained Abusive words and 90% were non-Abusive.
 
 ### [Sansorchi](https://github.com/mmdbalkhi/Sansorchi)
 Remove Persian (Farsi) Swear Words
 
-### [Persian-Swear-Words](https://github.com/amirshnll/Persian-Swear-Words)
+### [Persian Swear Words](https://github.com/amirshnll/Persian-Swear-Words)
 Persian Swear Dataset - you can use in your production to filter unwanted content. دیتاست کلمات نامناسب و بد فارسی برای فیلتر کردن متن ها
 
 Stop words list
@@ -354,7 +354,7 @@ FASpell dataset was developed for the evaluation of spell checking algorithms. I
 The dataset consists of two parts: a) faspell_main: list of 5050 pairs collected from errors made by elementary school pupils and professional typists. b) faspell_ocr: list of 800 pairs collected from the output of a Farsi OCR system.
 
 ### [Lilak, Persian Spell Checking Dictionary](https://github.com/b00f/lilak)
-Tried to create data for [hunspell library](https://github.com/hunspell/hunspell) for spell checking and morphology analyzing.
+Created data for [hunspell library](https://github.com/hunspell/hunspell) for spell checking and morphology analyzing.
 
 ### [Persian Spell Checker](https://github.com/reza1615/Persian-Spell-checker)
 Consists of some lists of miss-spelled words and some dictionaries of Persian word entries.
@@ -367,7 +367,7 @@ Code and data for detecting and correcting just a special kind of cognitive miss
 
 Normalization
 -------------
-### [persianutils](https://github.com/ishto7/persianutils)
+### [PersianUtils](https://github.com/ishto7/persianutils)
 Standardize your Persian text: Preprocessing, Embedding, and more!
 
 ### [Farsi-Normalizer](https://github.com/lingwndr/Farsi-Normalizer)
@@ -385,10 +385,10 @@ Virastar is a Persian text cleaner (JS).
 
 Transliteration
 ---------------
-### [tajik-to-persian-transliteration](https://github.com/stibiumghost/tajik-to-persian-transliteration)
+### [Tajik-to-Persian transliteration](https://github.com/stibiumghost/tajik-to-persian-transliteration)
 Tajik-to-Persian transliteration model
 
-### [f2f](https://github.com/brothersincode/f2f)
+### [F2F](https://github.com/brothersincode/f2f)
 Farsi to Finglish, a Persian transliterator
 
 ### [Behnevis](https://github.com/lingwndr/pinglish_behnevis)
@@ -450,10 +450,10 @@ The "Iranian Job Title" dataset offers a comprehensive compilation of various jo
 
 Poetry and Literature
 ---------------------
-### [hafez-poems-bot](https://github.com/ArminGh02/hafez-poems-bot)
+### [Hafez Poems](https://github.com/ArminGh02/hafez-poems-bot)
 A simple Telegram bot implemented in Python.
 
-### [persian-databases](https://github.com/ganjoor/persian-databases)
+### [Persian Databases](https://github.com/ganjoor/persian-databases)
 Useful Persian dictionary and more. Consists of:
 - اشعار شعرای ایرانی
     - احمد شاملو
@@ -503,7 +503,7 @@ This ~2.5-hour Single-Speaker Speech corpus.
 ### [ShEMO: Persian Speech Emotion Detection Database](https://www.kaggle.com/datasets/mansourehk/shemo-persian-speech-emotion-detection-database)
 A semi-natural db which contains emotional speech samples of Persian speakers. The database includes 3000 semi-natural utterances, equivalent to 3 h and 25 min of speech data extracted from online radio plays.
 
-### [speech2text](https://github.com/shenasa-ai/speech2text)
+### [Speech to Text](https://github.com/shenasa-ai/speech2text)
 A Deep-Learning-Based Persian Speech Recognition System. Takes advantage of various ASR platforms to create models for ASR. Also it uses various datasets including Mozzila CommonVoice and their own dtaset which consists of 300h+ audio and transcription.
 
 ### [PCVC Speech Dataset](https://www.kaggle.com/datasets/sabermalek/pcvcspeech)
@@ -511,7 +511,7 @@ Phoneme based speech dataset.
 
 Crawl Suite
 -----------
-### [news-search-engine](https://github.com/MehranTaghian/news-search-engine/tree/main)
+### [Persian News Search Engine](https://github.com/MehranTaghian/news-search-engine/tree/main)
 A search engine for crawling news from the web, storing in a structured way, and querying through the stored documents for finding the most relevant results using Machine Learning and Information Retrieval techniques.
 
 ### [iranian-news-agencies-crawler](https://github.com/hamid/iranian-news-agencies-crawler)
@@ -543,13 +543,13 @@ Do you need some fake data?
 
 UI/UX
 -----
-### [persian-badge](https://github.com/kasraghoreyshi/persian-badge)
+### [Persian-Badge](https://github.com/kasraghoreyshi/persian-badge)
 Persian-Badge is a website for having metadata badges in the Persian language
 
 OCR
 ---
 
-### [handwritten-city-names-in-Arabic-Persian](https://github.com/mehrdad-moradi/handwritten-city-names-in-Arabic-Persian)
+### [Handwritten city names in Arabic Persian](https://github.com/mehrdad-moradi/handwritten-city-names-in-Arabic-Persian)
 This is a dataset of handwritten cities in Iran in Arabic/Persian that has been used in my Master project. This dataset is collected for sorting postal packages.
 
 ### [IranShahr](https://github.com/DarjaGFX/IranShahr/tree/master)
@@ -561,7 +561,7 @@ Hand-written / typed names of different cities of Iran in image format.
 Spam
 ----
 
-### [persian-sms-spam-word](https://www.kaggle.com/datasets/amirshnll/persiansmsspamword)
+### [Persian SMS Spam Word](https://www.kaggle.com/datasets/amirshnll/persiansmsspamword)
 persian sms spam word
 
 Image Captioning
@@ -571,7 +571,7 @@ Image Captioning
 Coco 2017 translated to Persian language.
 91k images with caption in Persian.
 
-### [Iranis-dataset](https://github.com/alitourani/Iranis-dataset)
+### [Iranis dataset](https://github.com/alitourani/Iranis-dataset)
 Dataset of Farsi License Plate Characters (83k).
 
 Translation
