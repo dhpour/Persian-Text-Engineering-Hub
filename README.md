@@ -251,6 +251,9 @@ Entailment
 ### [FarsTail: a Persian natural language inference dataset](https://github.com/dml-qom/FarsTail)
 10k pairs with entailment label.
 
+### [Sentence Transformers](https://github.com/m3hrdadfi/sentence-transformers)
+Used a previously trained model which was trained on FarsTail dataset for entailment puposes. This experiment extends to create two more datasets from wikipedia articles for both testing FarsTail model and using as dataset for creating new models. All results are reported and datasets are available in this repo.
+
 Datasets
 --------
 ### [Virgool Dataset](https://www.kaggle.com/datasets/mehranrafiee/persian-articles-for-labeling)
@@ -303,9 +306,6 @@ Persian real SMS Dataset
 
 ### [Tarjoman (Persian Text) | ترجمان](https://www.kaggle.com/datasets/amirpourmand/tarjoman-persian-text)
 Crawled more than 3k+ articles from tarjoman website.
-
-### [Persian Poems Corpus](https://github.com/amnghd/Persian_poems_corpus)
-Crawled Ganjoor for poems 48 poets.
 
 ### [Large-Scale Colloquial Persian](https://iasbs.ac.ir/~ansari/lscp/)
 27M tweets. Although these texts have been labeled or translated using various NLP toolkits, they have never been supervised.
@@ -484,6 +484,9 @@ Useful Persian dictionary and more. Consists of:
 
 ### [Shereno: A Dataset of Persian Modernist Poetry](https://www.kaggle.com/datasets/elhamaghakhani/persian-poems)
 Collection of Persian Modernist Poetry from Iranian contemporary poets
+
+### [Persian Poems Corpus](https://github.com/amnghd/Persian_poems_corpus)
+Crawled Ganjoor for poems of 48 poets.
 
 Audio Dataset
 -------------
