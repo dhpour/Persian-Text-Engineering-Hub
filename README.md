@@ -39,7 +39,7 @@ Topics
 - [Knowledge Graph](#knowledge-graph)
 - [Summery](#summary)
 - [Paraphrase](#paraphrase)
-
+- [WSD](#wsd)
 
 Multi-purpose libs
 ------------------
@@ -202,6 +202,9 @@ Informal and Formal Persian word analyzer (inflection with FST)
 ### [Persian Slang](https://github.com/semnan-university-ai/persian-slang)
 Persian Slang Words (dataset)
 
+### [Informal Persian Universal Dependency Treebank (iPerUDT)](https://github.com/royakabiri/iPerUDT)
+Informal Persian Universal Dependency Treebank, consisting of 3000 sentences and 54,904 tokens, is an open source collection of colloquial informal texts from Persian blogs.
+
 Numbers to words
 ----------------
 
@@ -275,6 +278,9 @@ PARSEME is a verbal multiword expressions (VMWEs) corpus for Farsi. All the anno
 ### [UDPipe 2](https://github.com/ufal/udpipe/tree/udpipe-2)
 UDPipe: Trainable pipeline for tokenizing, tagging, lemmatizing and parsing Universal Treebanks and other CoNLL-U files.
 
+### [Informal Persian Universal Dependency Treebank (iPerUDT)](https://github.com/royakabiri/iPerUDT)
+Informal Persian Universal Dependency Treebank, consisting of 3000 sentences and 54,904 tokens, is an open source collection of colloquial informal texts from Persian blogs.
+
 Entailment
 ----------
 ### [FarsTail: a Persian natural language inference dataset](https://github.com/dml-qom/FarsTail)
@@ -338,6 +344,12 @@ Crawled more than 3k+ articles from tarjoman website.
 
 ### [Large-Scale Colloquial Persian](https://iasbs.ac.ir/~ansari/lscp/)
 27M tweets. Although these texts have been labeled or translated using various NLP toolkits, they have never been supervised.
+
+### [VOA 2003 - 2008](https://jon.dehdari.org/corpora/#persian)
+Consists of 8M words with following columns: title, date, url and body.
+
+### [Ensani-ir Abstrsacts](https://www.kaggle.com/datasets/amirpourmand/ensani-abstracts)
+219K abstracts collected from Ensani.ir papers.
 
 Toxic text
 ----------
@@ -567,6 +579,9 @@ A keyphrase extractor for Persian
 ### [PREDICT-Persian-Reverse-Dictionary](https://github.com/arm-on/PREDICT-Persian-Reverse-Dictionary)
 The first intelligent Persian reverse dictionary
 
+### [Persian-ATIS (Airline Travel Information System) Dataset](https://github.com/Makbari1997/Persian-Atis)
+A Persian dataset for Joint Intent Detection and Slot Filling.
+
 Mocking
 -------
 ### [PersianFaker](https://github.com/muhammadmp97/PersianFaker)
@@ -616,6 +631,15 @@ Persian language movies dataset from imvbox.com. 14k movies with storyline trans
 
 ### [The Holy Quran](https://www.kaggle.com/datasets/zusmani/the-holy-quran)
 Quran ayat with translation in 21 languages.
+
+### [The Bible](https://github.com/christos-c/bible-corpus)
+A multilingual parallel corpus created from translations of the Bible. In 100 languages including `Persian`.
+
+### [Miras Text](https://github.com/miras-tech/MirasText)
+MirasText has more than 2.8 million articles and over 1.4 billion content words.
+
+### [W2C – Web to Corpus](https://lindat.mff.cuni.cz/repository/xmlui/handle/11858/00-097C-0000-0022-6133-9)
+A set of corpora for 120 languages including `Persian` automatically collected from wikipedia and the web.
 
 Knowledge Graph
 ---------------
