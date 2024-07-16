@@ -162,6 +162,9 @@ The Digikala (comments & products) dataset offers a comprehensive glimpse into t
 ### [Persian tweets emotional dataset](https://www.kaggle.com/datasets/behdadkarimi/persian-tweets-emotional-dataset)
 20k tweets with emotion identification labels.
 
+### [Snappfood](https://hooshvare.github.io/docs/datasets/sa#snappfood)
+Snappfood (an online food delivery company) user comments containing 70,000 comments with two labels (i.e. polarity classification): Happy, Sad.
+
 
 
 Informal Persian
@@ -343,23 +346,24 @@ Consists of about 2k stop words.
 Spell checking
 ------------
 
-### [persian-spell-checker-kenlm](https://github.com/pooya-mohammadi/persian-spell-checker-kenlm)
-A complete instruction for training a Persian spell checker and a language model based on SymSpell and KenLM, respectively using Wikipedia dataset.
+### [Persian Spell Checker with Kenlm](https://github.com/pooya-mohammadi/persian-spell-checker-kenlm)
+A complete instruction for training a Persian spell checker and a language model based on SymSpell and KenLM, using Wikipedia dataset. Tokens that are not in the vocab and has a very low frequency considered to be miss-spelled words and replaced with their equivalent from vocabs which maximizes the probabilty of the sentence.
 
-### [virastar](https://github.com/nekofar/virastar)
-Virastar is a TypeScript library for Persian text processing, providing various functions such as normalization, cleaning, and formatting for better readability and compatibility.
+### [FAspell](https://lindat.mff.cuni.cz/repository/xmlui/handle/11372/LRT-1547)
+FASpell dataset was developed for the evaluation of spell checking algorithms. It contains a set of pairs of misspelled Persian words and their corresponding corrected forms similar to the ASpell dataset used for English.
+The dataset consists of two parts: a) faspell_main: list of 5050 pairs collected from errors made by elementary school pupils and professional typists. b) faspell_ocr: list of 800 pairs collected from the output of a Farsi OCR system.
 
-### [Virastar](https://github.com/AlirezaSedghi/Virastar)
-Cleaning-up Persian Texts!
+### [Lilak, Persian Spell Checking Dictionary](https://github.com/b00f/lilak)
+Tried to create data for [hunspell library](https://github.com/hunspell/hunspell) for spell checking and morphology analyzing.
 
-### [virastar](https://github.com/aziz/virastar)
-cleanning up Persian text!
+### [Persian Spell Checker](https://github.com/reza1615/Persian-Spell-checker)
+Consists of some lists of miss-spelled words and some dictionaries of Persian word entries.
 
-### [virastar.py](https://github.com/JKhakpour/virastar.py)
-Persian text normalizer (Python version of https://github.com/aziz/virastar)
+### [PerSpellData](https://github.com/rominaoji/PerSpellData)
+A comprehensive parallel dataset designed for the task of spell checking in Persian. Misspelled sentences together with the correct form are produced using a massive confusion matrix, which is gathered from many sources. This dataset contains informal sentences in addition to the formal sentences, and contains texts from diverse topics. Both non-word and real-word errors are collected in the dataset
 
-### [virastar](https://github.com/octoberfa/virastar)
-cleanning up Persian text!
+### [HeKasre](https://github.com/AUT-Data-Group/HeKasre)
+Code and data for detecting and correcting just a special kind of cognitive miss-spelling error in `informal Persian`.
 
 Normalization
 -------------
@@ -368,6 +372,16 @@ Standardize your Persian text: Preprocessing, Embedding, and more!
 
 ### [Farsi-Normalizer](https://github.com/lingwndr/Farsi-Normalizer)
 Simple Farsi normalizer
+
+### [virastar](https://github.com/aziz/virastar)
+Cleanning up Persian text! (Ruby)
+- [Python version](https://github.com/JKhakpour/virastar.py)
+
+### [Virastar (ویراستار)](https://github.com/brothersincode/virastar)
+Virastar is a Persian text cleaner (JS).
+- [PHP version 1](https://github.com/octoberfa/virastar)
+- [PHP version 2](https://github.com/AlirezaSedghi/Virastar)
+- [TypeScript version](https://github.com/nekofar/virastar)
 
 Transliteration
 ---------------
