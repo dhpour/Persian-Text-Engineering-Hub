@@ -148,7 +148,7 @@ Persian sentiment analysis ( آناکاوی سهش های فارسی | تحلی�
 Sentiment analysis using ML and DL models on Persian texts
 
 ### [LexiPers](https://github.com/phosseini/LexiPers)
-A Sentiment Analysis Lexicon for Persian
+A Sentiment Analysis Lexicon for Persian. Consists of 4k words
 
 ### [Taaghche | طاقچه](https://www.kaggle.com/datasets/saeedtqp/taaghche)
 Persian book comment ratings dataset. Consists of about 70k comment about 11k books.
@@ -159,11 +159,32 @@ The Digikala (comments & products) dataset offers a comprehensive glimpse into t
 ### [Digikala Comments](https://www.kaggle.com/datasets/soheiltehranipour/digikala-comments-persian-sentiment-analysis)
 3k comments with score and ratings.
 
+### [MirasOpinion](https://github.com/miras-tech/MirasText/tree/master/MirasOpinion)
+93k digikala products comments with manual labeling.
+
 ### [Persian tweets emotional dataset](https://www.kaggle.com/datasets/behdadkarimi/persian-tweets-emotional-dataset)
 20k tweets with emotion identification labels.
 
+### [Persian Emotion Detection (tweets)](https://github.com/nazaninsbr/Persian-Emotion-Detection)
+A Dataset of 30,000 emotion labeled Persian Tweets.
+
+### [ArmanEmo](https://github.com/Arman-Rayan-Sharif/arman-text-emotion)
+Consists of 7k docs with 6 emotion label types (sadness, anger, happiness, hatred, wonder, fear).
+
 ### [Snappfood](https://hooshvare.github.io/docs/datasets/sa#snappfood)
 Snappfood (an online food delivery company) user comments containing 70,000 comments with two labels (i.e. polarity classification): Happy, Sad.
+
+### [NRC Persian Lexicon](https://github.com/mhbashari/NRC-Persian-Lexicon)
+It is the Persian translation of NRC Emotion Lexicon which is a list of English words with their associate basic emotions in eigth categories( anger, fear, anticipation, trust, surprise, sadness, joy, and disgust).
+
+### [Pars ABSA](https://github.com/Titowak/Pars-ABSA)
+Consists of 10k samples which each record focuses on one aspect (e.g. camera, screen resolution, etc of a comment about a cell phone) of a comment. Each comment may appear on more than one sample based on the number of aspects that exist in that comment.
+
+### [PerSent -- Persian Sentiment Analysis and Opinion Mining Lexicon](https://www.gelbukh.com/resources/persent/)
+Consists of 1500 words with their degree of polarity.
+
+### [DeepSentiPers](https://github.com/JoyeBright/DeepSentiPers)
+Uses [SentiPers](https://github.com/phosseini/sentipers) data wich contains 7400 sentences and extends it with different embeddings for creating both LSTM and CNN models. All old and new transformed data and notebooks to create models are available in this repo.
 
 
 
