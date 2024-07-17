@@ -276,6 +276,9 @@ Medical Question Answering dataset consists of 15k dialogs in 70 specialities.
 ### [Persian-QA-Wikipedia](https://www.kaggle.com/datasets/amirpourmand/persian-qa-wikipedia)
 26k QA and related excerpt extracted from Persian wikipedia. Some of the questions can not be answered based on the given excerpt by design (like SQuAD2.0).
 
+### [ParsSQuAD](https://github.com/BigData-IsfahanUni/ParSQuAD)
+Persian Question Answering Dataset based on Machine Translation of SQuAD 2.0
+
 Dependency Parsing
 ------------------
 ### [The Persian Universal Dependency Treebank (Persian UD)](https://github.com/UniversalDependencies/UD_Persian-Seraji)
