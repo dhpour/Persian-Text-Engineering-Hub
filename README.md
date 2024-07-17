@@ -573,6 +573,9 @@ Phoneme based speech dataset.
 ### [Vosk](https://github.com/alphacep/vosk-api)
 Open-source tool for speech recognition for various platforms and OSes, supprting 20 languages including `Persian`.
 
+### [Wav2Vec2-Large-XLSR-53-Persian V3](https://huggingface.co/m3hrdadfi/wav2vec2-large-xlsr-persian-v3)
+It is a wav2vec model fine-tuned on Mozzila CommonVoice Persian dataset. The model and the notebook to recreate the model with extra data are avaialble. 
+
 Crawl Suite
 -----------
 ### [Persian News Search Engine](https://github.com/MehranTaghian/news-search-engine/tree/main)
@@ -604,10 +607,6 @@ Scripts and model developed for POS Tagging and Dependency Parsing Persian based
 
 ### [RDR POS Tagger](https://github.com/datquocnguyen/RDRPOSTagger)
 RDRPOSTagger is supports pre-trained UPOS, XPOS and morphological tagging models for about 80 languages including `Persian`. [Java version](https://github.com/datquocnguyen/jPTDP).
-
-### [Wav2Vec2-Large-XLSR-53-Persian V3](https://huggingface.co/m3hrdadfi/wav2vec2-large-xlsr-persian-v3)
-It is a wav2vec model fine-tuned on Mozzila CommonVoice Persian dataset. The model and the notebook to recreate the model with extra data are avaialble. 
-
 
 Various
 ------------------
