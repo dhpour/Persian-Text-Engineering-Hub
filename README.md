@@ -41,8 +41,6 @@ Topics
 - [Paraphrase](#paraphrase)
 - [WSD](#wsd)
 
-Thanks to [Awesome Persian NLP](https://github.com/mhbashari/awesome-persian-nlp-ir) and [Awesome Iranian Datasets](https://github.com/MEgooneh/awesome-Iran-datasets) for providing some elements of this long list.
-
 Multi-purpose libs
 ------------------
 ### [Parsivar](https://github.com/ICTRC/Parsivar)
@@ -726,3 +724,7 @@ WSD
 ---
 ### [SBU WSD Corpus](https://github.com/hrouhizadeh/SBU-WSD-Corpus)
 SBU-WSD-Corpus: A Sense Annotated Corpus for Persian All-words Word Sense Disambiguation.
+
+Thanks
+------
+Thanks to [Awesome Persian NLP](https://github.com/mhbashari/awesome-persian-nlp-ir) and [Awesome Iranian Datasets](https://github.com/MEgooneh/awesome-Iran-datasets) for providing some elements of this long list.
