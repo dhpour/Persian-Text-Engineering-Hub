@@ -136,7 +136,7 @@ A stemmer for Persian based on [A new hybrid stemming method for persian languag
 
 Sentiment Analysis
 ------------------
-### [Persian-Sentiment-Resources](https://github.com/Text-Mining/Persian-Sentiment-Resources)
+### [Persian Sentiment Resources](https://github.com/Text-Mining/Persian-Sentiment-Resources)
 Awesome Persian Sentiment Analysis Resources - منابع مرتبط با تحلیل احساسات در زبان فارسی
 
 - Consists of following datasets:
@@ -146,10 +146,10 @@ Awesome Persian Sentiment Analysis Resources - منابع مرتبط با تحل
   - Sentiment Tagged Corpus (dataset)
   - HesNegar: Persian Sentiment WordNet
 
-### [Persian-Sentiment-Analyzer](https://github.com/ashalogic/Persian-Sentiment-Analyzer)
-Persian sentiment analysis ( آناکاوی سهش های فارسی | تحلیل احساسات فارسی )
+### [Persian Sentiment Analyzer](https://github.com/ashalogic/Persian-Sentiment-Analyzer)
+Consists of data (3K) and code (notebook) to create a LSTM model for Sentiment Analysis.
 
-### [Sentiment-Analysis](https://github.com/parsa-abbasi/Sentiment-Analysis)
+### [Sentiment Analysis](https://github.com/parsa-abbasi/Sentiment-Analysis)
 Sentiment analysis using ML and DL models on Persian texts
 
 ### [LexiPers](https://github.com/phosseini/LexiPers)
@@ -705,6 +705,9 @@ Yearly collection of the Farsnews agency (1398). Contains 294k News article with
 
 ### [Wiki Summary](https://github.com/m3hrdadfi/wiki-summary)
 95k documents with body and summery extracted from wikipedia Persian articles. There is also notebook to create and test models for summerization.
+
+### [Persian Summarization](https://github.com/minasmz/Persian-Summarization)
+Statistical and Semantical Text Summarizer in Persian Language
 
 Paraphrase
 ----------
