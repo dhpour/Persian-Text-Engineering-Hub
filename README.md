@@ -41,6 +41,8 @@ Topics
 - [Paraphrase](#paraphrase)
 - [WSD](#wsd)
 
+Thanks to [Awesome Persian NLP](https://github.com/mhbashari/awesome-persian-nlp-ir) and [Awesome Iranian Datasets](https://github.com/MEgooneh/awesome-Iran-datasets) for providing some elements of this long list.
+
 Multi-purpose libs
 ------------------
 ### [Parsivar](https://github.com/ICTRC/Parsivar)
@@ -710,6 +712,9 @@ Yearly collection of the Farsnews agency (1398). Contains 294k News article with
 
 ### [Persian Summarization](https://github.com/minasmz/Persian-Summarization)
 Statistical and Semantical Text Summarizer in Persian Language
+
+### [Persian News Summary](https://huggingface.co/datasets/HooshvareLab/pn_summary)
+A well-structured summarization dataset for the Persian language consists of 93,207 records. It is prepared for Abstractive/Extractive tasks (like cnn_dailymail for English). It can also be used in other scopes like Text Generation, Title Generation, and News Category Classification.
 
 Paraphrase
 ----------
