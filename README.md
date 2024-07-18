@@ -1,5 +1,5 @@
 # Persian-Text-Engineering-Hub
-[![Check Links](https://github.com/dhling/Persian-Text-Engineering-Hub/actions/workflows/link_check.yml/badge.svg)](https://github.com/dhling/Persian-Text-Engineering-Hub/actions/workflows/link_check.yml)
+[![Check Links](https://github.com/dhpour/Persian-Text-Engineering-Hub/actions/workflows/link_check.yml/badge.svg)](https://github.com/dhpour/Persian-Text-Engineering-Hub/actions/workflows/link_check.yml)
 
 Curated list of Text libraries, tools and datasets for Persian language.
 
@@ -107,7 +107,7 @@ It is a convolutional sequence to sequence model created based on [Tachibana et 
 
 Word Analyzing
 -------------
-### [CPIA - Contemporary Persian Inflectional Analyzer](https://github.com/dhling/cpia)
+### [CPIA - Contemporary Persian Inflectional Analyzer](https://github.com/dhpour/cpia)
 Informal and Formal Persian word analyzer (inflection with FST)
 
 ### [Persian Morphologically Segmented Lexicon 0.5](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-3011)
@@ -199,7 +199,7 @@ Informal Persian
 ### [Shekasteh](https://github.com/rasoolims/Shekasteh)
 Shekasteh is an evaluation dataset for Persian colloquial text. It comes from different genres, including blog posts, movie subtitles, and forum chats.
 
-### [CPIA](https://github.com/dhling/cpia)
+### [CPIA](https://github.com/dhpour/cpia)
 Informal and Formal Persian word analyzer (inflection with FST)
 
 ### [Persian Slang](https://github.com/semnan-university-ai/persian-slang)
@@ -389,7 +389,7 @@ A collection of Persian stopwords. Consists of:
 [All combined](https://github.com/rahmanidashti/PersianStopWords/)
 
 ### Different sources
-- [Lucene](https://gist.github.com/dhling/cd25e0affff5e921f7ebfb1e40dfe937)
+- [Lucene](https://gist.github.com/dhpour/cd25e0affff5e921f7ebfb1e40dfe937)
 - [Hazm](https://github.com/sobhe/hazm/blob/master/hazm/data/stopwords.dat)
 - [awesome list](https://github.com/mhbashari/awesome-persian-nlp-ir/blob/master/stopwords.txt)
 - [Dehghani](https://github.com/mohamad-dehghani/Semi-automatic-Detection-of-Persian-Stopwords-using-FastText-Library-/blob/main/pers_word.txt)
@@ -425,7 +425,7 @@ Normalization
 ### [PersianUtils](https://github.com/ishto7/persianutils)
 Standardize your Persian text: Preprocessing, Embedding, and more!
 
-### [Farsi-Normalizer](https://github.com/dhling/Farsi-Normalizer)
+### [Farsi-Normalizer](https://github.com/dhpour/Farsi-Normalizer)
 Simple Farsi normalizer
 
 ### [virastar](https://github.com/aziz/virastar)
@@ -452,7 +452,7 @@ Tajik-to-Persian transliteration model
 ### [F2F](https://github.com/brothersincode/f2f)
 Farsi to Finglish, a Persian transliterator
 
-### [Behnevis](https://github.com/dhling/pinglish_behnevis)
+### [Behnevis](https://github.com/dhpour/pinglish_behnevis)
 24k ASCII transliterated Persian words
 
 Encyclopedia and Word Set
