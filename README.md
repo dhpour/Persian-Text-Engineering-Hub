@@ -105,6 +105,15 @@ list of persian word pronunciations
 ### [Persian text to speech](https://github.com/AlisterTA/Persian-text-to-speech)
 It is a convolutional sequence to sequence model created based on [Tachibana et al](https://arxiv.org/abs/1710.08969) with modifications. This repo consists of notebooks to do the training and inferencing and provides proper datasets to do so.
 
+### [Persian_g2p: A seq-to-seq model for Persian G2P mapping](https://github.com/AzamRabiee/Persian_G2P)
+Persian Grapheme-to-Phoneme (G2P) converter
+
+### [G2P](https://github.com/mohamad-hasan-sohan-ajini/G2P)
+The G2P algorithm is used to generate the most probable pronunciation for a word not contained in the lexicon dictionary. It could be used as a preprocess of text-to-speech system to generate pronunciation for OOV words.
+
+### [Tihu Persia Dictionary](https://github.com/tihu-nlp/tihudict)
+Tihu-dict is a pronouncing dictionary of Persian
+
 Word Analyzing
 -------------
 ### [CPIA - Contemporary Persian Inflectional Analyzer](https://github.com/dhpour/cpia)
@@ -189,9 +198,7 @@ Consists of 10k samples which each record focuses on one aspect (e.g. camera, sc
 Consists of 1500 words with their degree of polarity.
 
 ### [DeepSentiPers](https://github.com/JoyeBright/DeepSentiPers)
-Uses [SentiPers](https://github.com/phosseini/sentipers) data wich contains 7400 sentences and extends it with different embeddings for creating both LSTM and CNN models. All old and new transformed data and notebooks to create models are available in this repo.
-
-
+Uses [SentiPers](https://github.com/phosseini/sentipers) data which contains 7400 sentences and extends it with different embeddings for creating both LSTM and CNN models. All old and new transformed data and notebooks to create models are available in this repo.
 
 Informal Persian
 ----------------
@@ -231,6 +238,9 @@ Handling various number types in Persian text (like National ID, Sheba, etc)
 
 ### [petit](https://github.com/JKhakpour/petit)
 Persian text -> integer, ineteger -> text converter
+
+### [num2fawords](https://github.com/5j9/num2fawords)
+Takes a number and converts it to Persian word form
 
 Word Embeddings
 ---------------
