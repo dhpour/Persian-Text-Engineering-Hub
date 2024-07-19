@@ -621,6 +621,9 @@ Scripts and model developed for POS Tagging and Dependency Parsing Persian based
 ### [RDR POS Tagger](https://github.com/datquocnguyen/RDRPOSTagger)
 RDRPOSTagger is supports pre-trained UPOS, XPOS and morphological tagging models for about 80 languages including `Persian`. [Java version](https://github.com/datquocnguyen/jPTDP).
 
+### [Cross-platform Persian Parts-of-Speech tagger](https://github.com/mhbashari/perpos)
+This is another persian POS tagger
+
 Various
 ------------------
 ### [Perke](https://github.com/AlirezaTheH/perke)
