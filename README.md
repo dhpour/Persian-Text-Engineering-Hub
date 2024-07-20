@@ -634,7 +634,7 @@ Various
 A keyphrase extractor for Persian
 
 ### [PREDICT-Persian-Reverse-Dictionary](https://github.com/arm-on/PREDICT-Persian-Reverse-Dictionary)
-The first intelligent Persian reverse dictionary
+The first intelligent Persian reverse dictionary. Consists of various models for this task and datasets of Amid, Moeen, Dehkhoda, Persian Wikipedia and Persian Wordnet ([Farsnet](http://farsnet.nlp.sbu.ac.ir/)).
 
 ### [Persian-ATIS (Airline Travel Information System) Dataset](https://github.com/Makbari1997/Persian-Atis)
 A Persian dataset for Joint Intent Detection and Slot Filling.
