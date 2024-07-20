@@ -219,10 +219,10 @@ Numbers <> Words
 ----------------
 
 ### [NumToPersian](https://github.com/Shahnazi2002/NumToPersian)
-تبدیل عدد به حروف با پایتون
+Converts numbers to words.
 
 ### [Convert numbers to Persian words](https://github.com/saeed-raeisi/num2words)
-Read me this number python -- Convert number to Persian -- تبدیل عدد به فارسی
+Read me this number python -- Convert number to Persian
 
 ### [PersianNumberToWord](https://github.com/razavioo/PersianNumberToWord)
 Convert numbers to Persian words.
@@ -246,7 +246,7 @@ Word Embeddings
 ---------------
 
 ### [Persian Word Embedding](https://github.com/miladfa7/Persian-Word-Embedding)
-Persian Word Embedding using FastText, BERT, GPT and GloVe | تعبیه کلمات فارسی با روش های مختلف
+Persian Word Embedding using FastText, BERT, GPT and GloVe 
 
 ### [Persian Word2Vec](https://github.com/AminMozhgani/Persian_Word2Vec)
 A Persian Word2Vec Model trained by Wikipedia articles
@@ -330,6 +330,12 @@ Yearly collection of the Farsnews agency (1398). Contains 294k News article with
 
 ### [Digikala Magazine (DigiMag)](https://hooshvare.github.io/docs/datasets/tc#digikala-magazine-digimag)
 A total of 8,515 articles scraped from Digikala Online Magazine. This dataset includes seven different classes: Video Games, Shopping Guide, Health Beauty, Science Technology, General, Art Cinema and Books Literature.
+
+### [Miras Text](https://github.com/miras-tech/MirasText)
+MirasText has more than 2.8 million articles and over 1.4 billion content words. Consists of following columns: content, summary, keywords, title, url.
+
+### [Miras Irony](https://github.com/miras-tech/MirasText/tree/master/MirasIrony)
+Contains about 3K tweets, with each one of them labeled as either ironic or not.
 
 NER
 ---
@@ -469,8 +475,6 @@ Encyclopedia and Word Set
 -------------------------
 
 ### [Vajehdan](https://github.com/sir-kokabi/Vajehdan)
-دستیار واژه‌گزینیِ فارسی.
-
 Consists of following sets:
 - Words of `Sareh` Dictionary (Purified Persian Words)
 - `Farhangestan` chosen words for non-Persian equivalents.
@@ -486,7 +490,7 @@ Persian names dataset
 A Python package for generating random Persian (Farsi) names.
 
 ### [persian-wordlist](https://github.com/masterking32/persian-wordlist)
-A SQL database that includes a dictionary of 494,286 Persian words. دیکشنری 494,286 کلمه فارسی به صورت دیتابیس
+A SQL database that includes a dictionary of 494,286 Persian words.
 
 ### [persianwordjson](https://github.com/semnan-university-ai/persianwordjson)
 This repository is a Persian meaningful database with json
@@ -687,9 +691,6 @@ Quran ayat with translation in 21 languages.
 
 ### [The Bible](https://github.com/christos-c/bible-corpus)
 A multilingual parallel corpus created from translations of the Bible. In 100 languages including `Persian`.
-
-### [Miras Text](https://github.com/miras-tech/MirasText)
-MirasText has more than 2.8 million articles and over 1.4 billion content words.
 
 ### [W2C – Web to Corpus](https://lindat.mff.cuni.cz/repository/xmlui/handle/11858/00-097C-0000-0022-6133-9)
 A set of corpora for 120 languages including `Persian` automatically collected from wikipedia and the web.
