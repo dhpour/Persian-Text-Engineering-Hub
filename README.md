@@ -290,7 +290,7 @@ Medical Question Answering dataset consists of 15k dialogs in 70 specialities.
 Persian Question Answering Dataset based on Machine Translation of SQuAD 2.0
 
 ### [Crossword Cheat](https://github.com/dhpour/cwcheat)
-Consists of 30K question and answers of different Persian crosswords.
+Consists of 30K questions and answers of different Persian crosswords.
 
 Dependency Parsing
 ------------------
