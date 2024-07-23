@@ -315,7 +315,7 @@ Entailment
 10k pairs with entailment label.
 
 ### [Sentence Transformers](https://github.com/m3hrdadfi/sentence-transformers)
-Used a previously trained model which was trained on FarsTail dataset for entailment puposes. This experiment extends to create two more datasets from wikipedia articles for both testing FarsTail model and using as dataset for creating new models. All results are reported and datasets are available in this repo.
+Utilizes the FarsTail dataset for fine-tuning its model, while also incorporating two other entailment datasets: [Wiki Triplet](https://drive.google.com/uc?id=1-lfrhHZwleYR4s0xGkXZPXxTeF25Q4C3) and [Wiki D/Similar](https://drive.google.com/uc?id=1P-KfNVIAx4HkaWFxc9aFoO3sHzHJFaVn).
 
 Datasets
 --------
