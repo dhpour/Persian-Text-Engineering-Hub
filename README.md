@@ -731,6 +731,9 @@ Statistical and Semantical Text Summarizer in Persian Language
 ### [Persian News Summary](https://huggingface.co/datasets/HooshvareLab/pn_summary)
 A well-structured summarization dataset for the Persian language consists of 93,207 records. It is prepared for Abstractive/Extractive tasks (like cnn_dailymail for English). It can also be used in other scopes like Text Generation, Title Generation, and News Category Classification.
 
+### [Sentence Transformers (ParsBERT)](https://github.com/m3hrdadfi/sentence-transformers)
+Consists of similar models fine-tuned on [ParsBERT](https://github.com/hooshvare/parsbert) using three different datasets, these models can be utilized for various applications, including Text summarization.
+
 Paraphrase
 ----------
 
