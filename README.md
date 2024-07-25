@@ -11,7 +11,7 @@ Topics
 - [Sentiment Analysis](#sentiment-analysis)
 - [Informal Persian](#informal-persian)
 - [Numbers <> Words](#numbers--words)
-- [Word Embeddings](#word-embeddings)
+- [Word Embeddings](#embeddings)
 - [Benchmark](#benchmark)
 - [QA](#qa)
 - [Dependency Parsing](#dependency-parsing)
@@ -245,7 +245,7 @@ Persian text -> integer, ineteger -> text converter
 ### [num2fawords](https://github.com/5j9/num2fawords)
 Takes a number and converts it to Persian word form
 
-Word Embeddings
+Embeddings
 ---------------
 
 ### [FastText](https://fasttext.cc/docs/en/crawl-vectors.html)
