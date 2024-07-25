@@ -278,7 +278,7 @@ Benchmarking ChatGPT for Persian: A Preliminary Study
 QA
 --
 ### [PersianQA](https://github.com/sajjjadayobi/PersianQA)
-Persian (Farsi) Question Answering Dataset. with models: [bert-base-fa-qa](https://huggingface.co/SajjadAyoubi/bert-base-fa-qa) with 162M parameters fine-tuned on PersianQA and [xlm-roberta-large-fa-qa](https://huggingface.co/SajjadAyoubi/xlm-roberta-large-fa-qa) with 558M parameters fine-tuned on PersianQA and SQuAD2.0(English).
+Persian (Farsi) Question Answering Dataset. with models: [bert-base-fa-qa](https://huggingface.co/SajjadAyoubi/bert-base-fa-qa) with 162M parameters fine-tuned on this dataset and [xlm-roberta-large-fa-qa](https://huggingface.co/SajjadAyoubi/xlm-roberta-large-fa-qa) with 558M parameters fine-tuned on this dataset and SQuAD2.0 (English) dataset.
 
 ### [MeDiaPQA: A Question-Answering Dataset on Persian Medical Dialogues](https://data.mendeley.com/datasets/k7tzmrhr6n/1)
 Medical Question Answering dataset consists of 15k dialogs in 70 specialities.
