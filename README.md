@@ -778,6 +778,9 @@ Generation
 ### [ParsGPT](https://github.com/hooshvare/parsgpt)
 Persian version of GPT2 model.
 
+### [AVA LLM collection](https://huggingface.co/collections/MehdiHosseiniMoghadam/ava-6648848e7a1ed3e0016f8395)
+Fine-tuned versions of Mistral 7B and Llama 3 for Persian. The Persian resources used for these models are not known.
+
 Thanks
 ------
 Thanks to [Awesome Persian NLP](https://github.com/mhbashari/awesome-persian-nlp-ir) and [Awesome Iranian Datasets](https://github.com/MEgooneh/awesome-Iran-datasets) for providing some elements of this long list.
