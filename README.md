@@ -661,6 +661,9 @@ The first intelligent Persian reverse dictionary. Consists of various models for
 ### [Persian-ATIS (Airline Travel Information System) Dataset](https://github.com/Makbari1997/Persian-Atis)
 A Persian dataset for Joint Intent Detection and Slot Filling.
 
+### [ParsBERT](https://github.com/hooshvare/parsbert)
+Family of ParsBERT models including BERT, DistilBERT, ALBERT and ROBERTA. All of which are transformer based models with encoder-decoder design.
+
 Mocking
 -------
 ### [PersianFaker](https://github.com/muhammadmp97/PersianFaker)
