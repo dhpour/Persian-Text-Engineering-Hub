@@ -683,6 +683,9 @@ Dataset of Farsi License Plate Characters (83k).
 ### [ParsVQA-Caps](https://www.kaggle.com/datasets/maryamsadathashemi/parsvqacaps)
 The VQA dataset consists of almost 11k images and 28.5k question and answer pairs with short and long answers usable for both classification and generation VQA.
 
+### [CLIPfa](https://github.com/sajjjadayobi/CLIPfa)
+A dataset consists of 16M records of images and their corresponding texts. It also consists of a model traind on 400k of this dataset for searching images based on text and image.
+
 Translation
 -----------
 
