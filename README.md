@@ -248,11 +248,17 @@ Takes a number and converts it to Persian word form
 Word Embeddings
 ---------------
 
+### [FastText](https://fasttext.cc/docs/en/crawl-vectors.html)
+Pre-trained word vectors of 157 languages including `Persian`, trained on CommonCrawl and Wikipedia using CBOW.
+
 ### [Persian Word Embedding](https://github.com/miladfa7/Persian-Word-Embedding)
-Persian Word Embedding using FastText, BERT, GPT and GloVe 
+A tutorial on how to use 3 word embeddings; a) Downloading and using fasttext Persian word embeddings. b) How to get word embeddings of ParsBERT base model itself. c) How to get word embeddings of ParsGPT model.
 
 ### [Persian Word2Vec](https://github.com/AminMozhgani/Persian_Word2Vec)
 A Persian Word2Vec Model trained by Wikipedia articles
+
+### [Sentence Transformers (ParsBERT)](https://github.com/m3hrdadfi/sentence-transformers)
+Three similar models based on fine-tuning ParsBERT base model on 3 different entailment datasets. Each of these models can be used for Semantic Search, Clustering, Summerization, Information retrieval and Topic Modeling tasks.
 
 Benchmark
 ---------
