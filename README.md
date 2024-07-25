@@ -664,6 +664,9 @@ A Persian dataset for Joint Intent Detection and Slot Filling.
 ### [ParsBERT](https://github.com/hooshvare/parsbert)
 Family of ParsBERT models including BERT, DistilBERT, ALBERT and ROBERTA. All of which are transformer based models with encoder-decoder design.
 
+### [mBERT](https://huggingface.co/google-bert/bert-base-multilingual-cased)
+Multilingual BERT model consists of 104 languages including `Persian`.
+
 Mocking
 -------
 ### [PersianFaker](https://github.com/muhammadmp97/PersianFaker)
