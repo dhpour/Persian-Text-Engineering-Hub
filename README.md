@@ -578,6 +578,12 @@ Collection of Persian Modernist Poetry from Iranian contemporary poets
 ### [Persian Poems Corpus](https://github.com/amnghd/Persian_poems_corpus)
 Crawled Ganjoor for poems of 48 poets.
 
+### [Persian Poet GPT2](https://huggingface.co/HooshvareLab/gpt2-fa-poetry)
+This model fine-tuned on ParsGPT2 with [Chronological Persian poetry dataset](https://github.com/aghasemi/ChronologicalPersianPoetryDataset) and can generate poems by providing the name of the poet.
+
+### [Chronological Persian Poetry Dataset](https://github.com/aghasemi/ChronologicalPersianPoetryDataset)
+Dataset of poetry of 67 Persian poets of different times.
+
 Audio
 -------------
 ### [PSDR](https://github.com/Ralireza/PSDR)
