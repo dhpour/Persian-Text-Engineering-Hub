@@ -40,6 +40,7 @@ Topics
 - [Summery](#summary)
 - [Paraphrase](#paraphrase)
 - [WSD](#wsd)
+- [Generation](#generation)
 
 Multi-purpose libs
 ------------------
@@ -765,6 +766,11 @@ WSD
 ---
 ### [SBU WSD Corpus](https://github.com/hrouhizadeh/SBU-WSD-Corpus)
 SBU-WSD-Corpus: A Sense Annotated Corpus for Persian All-words Word Sense Disambiguation.
+
+Generation
+----------
+### [ParsGPT](https://github.com/hooshvare/parsgpt)
+Persian version of GPT2 model.
 
 Thanks
 ------
