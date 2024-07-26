@@ -204,6 +204,9 @@ Uses [SentiPers](https://github.com/phosseini/sentipers) data which contains 740
 ### [ParsBERT](https://github.com/hooshvare/parsbert)
 Fine-tuned a BERT based transofrmer on various sentiment analysis datasets like Digikala, SnappFood, SentiPers and Taaghche.
 
+### [ParsiNLU](https://github.com/persiannlp/parsinlu)
+Persian NLP team trained various mt5 models on their sentiment analysis dataset.
+
 Informal Persian
 ----------------
 
@@ -264,13 +267,7 @@ Three similar models based on fine-tuning ParsBERT base model on 3 different ent
 Benchmark
 ---------
 ### [ParsiNLU](https://github.com/persiannlp/parsinlu)
-A comprehensive suite of high-level NLP tasks for Persian language
-- Text entailment
-- Query paraphrasing
-- Reading comprehension
-- Multiple-choice QA
-- Machine translation
-- Sentiment analysis
+A comprehensive suite of high-level NLP tasks for Persian language. The dataset consists of the following tasks: Text entailment, Query paraphrasing, Reading comprehension, Multiple-choice QA, Machine translation and Sentiment analysis. They've been also fine-tuned [mt5](https://github.com/google-research/multilingual-t5) models on these datasets which result in various [Persian models](https://huggingface.co/persiannlp).
 
 ### [ParsBench - pb](https://github.com/shahriarshm/parsbench)
 ParsBench provides toolkits for benchmarking LLMs based on the Persian language tasks.
@@ -302,6 +299,9 @@ Persian Question Answering Dataset based on Machine Translation of SQuAD 2.0
 ### [Crossword Cheat](https://github.com/dhpour/cwcheat)
 Consists of 30K questions and answers of different Persian crosswords.
 
+### [ParsiNLU](https://github.com/persiannlp/parsinlu)
+Persian NLP team trained various mt5 and bert models on their multiple-choice QA dataset.
+
 Dependency Parsing
 ------------------
 ### [The Persian Universal Dependency Treebank (Persian UD)](https://github.com/UniversalDependencies/UD_Persian-Seraji)
@@ -326,6 +326,9 @@ Entailment
 
 ### [Sentence Transformers](https://github.com/m3hrdadfi/sentence-transformers)
 Utilizes the FarsTail dataset for fine-tuning its [ParsBERT](https://github.com/hooshvare/parsbert) model, while also incorporating two other entailment datasets: [Wiki Triplet](https://drive.google.com/uc?id=1-lfrhHZwleYR4s0xGkXZPXxTeF25Q4C3) and [Wiki D/Similar](https://drive.google.com/uc?id=1P-KfNVIAx4HkaWFxc9aFoO3sHzHJFaVn).
+
+### [ParsiNLU](https://github.com/persiannlp/parsinlu)
+Persian NLP team trained various mt5 and bert models on their entailment dataset.
 
 Datasets
 --------
@@ -667,6 +670,9 @@ Family of ParsBERT models including BERT, DistilBERT, ALBERT and ROBERTA. All of
 ### [mBERT](https://huggingface.co/google-bert/bert-base-multilingual-cased)
 Multilingual BERT model consists of 104 languages including `Persian`.
 
+### [ParsiNLU Reading Comprehension](https://github.com/persiannlp/parsinlu)
+Persian NLP team trained various mt5 models on their reading comprehension dataset.
+
 Mocking
 -------
 ### [PersianFaker](https://github.com/muhammadmp97/PersianFaker)
@@ -726,6 +732,9 @@ A multilingual parallel corpus created from translations of the Bible. In 100 la
 ### [W2C – Web to Corpus](https://lindat.mff.cuni.cz/repository/xmlui/handle/11858/00-097C-0000-0022-6133-9)
 A set of corpora for 120 languages including `Persian` automatically collected from wikipedia and the web.
 
+### [ParsiNLU](https://github.com/persiannlp/parsinlu)
+Persian NLP team trained various mt5 models on their translation dataset.
+
 Knowledge Graph
 ---------------
 
@@ -767,6 +776,9 @@ Paraphrase
 
 ### [ExaPPC](https://github.com/exaco/exappc)
 Paraphrase data for Persian. It consists of 2.3M sentence pairs of which 1M of them are paraphrase and 1.3M are not parapharse of each other.
+
+### [ParsiNLU](https://github.com/persiannlp/parsinlu)
+Persian NLP team trained various mt5 models on their query paraphrase dataset.
 
 WSD
 ---
