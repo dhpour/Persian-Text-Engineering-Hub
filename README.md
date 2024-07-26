@@ -302,6 +302,9 @@ Consists of 30K questions and answers of different Persian crosswords.
 ### [ParsiNLU](https://github.com/persiannlp/parsinlu)
 Persian NLP team trained various mt5 and bert models on their multiple-choice QA dataset.
 
+### [Persian Conversational Dataset (Legal)](https://huggingface.co/datasets/Kamtera/Persian-conversational-dataset)
+It consists of 266k legal questions, answers and related tags.
+
 Dependency Parsing
 ------------------
 ### [The Persian Universal Dependency Treebank (Persian UD)](https://github.com/UniversalDependencies/UD_Persian-Seraji)
