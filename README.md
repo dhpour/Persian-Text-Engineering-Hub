@@ -325,7 +325,7 @@ Entailment
 10k pairs with entailment label.
 
 ### [Sentence Transformers](https://github.com/m3hrdadfi/sentence-transformers)
-Utilizes the FarsTail dataset for fine-tuning its model, while also incorporating two other entailment datasets: [Wiki Triplet](https://drive.google.com/uc?id=1-lfrhHZwleYR4s0xGkXZPXxTeF25Q4C3) and [Wiki D/Similar](https://drive.google.com/uc?id=1P-KfNVIAx4HkaWFxc9aFoO3sHzHJFaVn).
+Utilizes the FarsTail dataset for fine-tuning its [ParsBERT](https://github.com/hooshvare/parsbert) model, while also incorporating two other entailment datasets: [Wiki Triplet](https://drive.google.com/uc?id=1-lfrhHZwleYR4s0xGkXZPXxTeF25Q4C3) and [Wiki D/Similar](https://drive.google.com/uc?id=1P-KfNVIAx4HkaWFxc9aFoO3sHzHJFaVn).
 
 Datasets
 --------
