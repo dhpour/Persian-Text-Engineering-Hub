@@ -30,6 +30,7 @@ Topics
 - [Crawl Suite](#crawl-suite)
 - [POS Tagging](#pos-tagging)
 - [Various](#various)
+- [Base Models](#base-models)
 - [Mocking](#mocking)
 - [UI/UX](#uiux)
 - [OCR](#ocr)
@@ -41,7 +42,6 @@ Topics
 - [Paraphrase](#paraphrase)
 - [WSD](#wsd)
 - [Generation](#generation)
-- [Base Models](#base-models)
 
 Multi-purpose libs
 ------------------
