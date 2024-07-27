@@ -41,6 +41,7 @@ Topics
 - [Paraphrase](#paraphrase)
 - [WSD](#wsd)
 - [Generation](#generation)
+- [Base Models](#base-models)
 
 Multi-purpose libs
 ------------------
@@ -667,14 +668,23 @@ The first intelligent Persian reverse dictionary. Consists of various models for
 ### [Persian-ATIS (Airline Travel Information System) Dataset](https://github.com/Makbari1997/Persian-Atis)
 A Persian dataset for Joint Intent Detection and Slot Filling.
 
+### [ParsiNLU Reading Comprehension](https://github.com/persiannlp/parsinlu)
+Persian NLP team trained various mt5 models on their reading comprehension dataset.
+
+Base Models
+-----------
+
 ### [ParsBERT](https://github.com/hooshvare/parsbert)
 Family of ParsBERT models including BERT, DistilBERT, ALBERT and ROBERTA. All of which are transformer based models with encoder-decoder design.
 
 ### [mBERT](https://huggingface.co/google-bert/bert-base-multilingual-cased)
 Multilingual BERT model consists of 104 languages including `Persian`.
 
-### [ParsiNLU Reading Comprehension](https://github.com/persiannlp/parsinlu)
-Persian NLP team trained various mt5 models on their reading comprehension dataset.
+### [Shiraz](https://huggingface.co/lifeweb-ai/shiraz)
+Is a BERT based model trained on Divan dataset (proprietary). This model has 46.6M parameters. Its evaluation on NER and Sentiment Analysis is repoted.
+
+### [Tehran](https://huggingface.co/lifeweb-ai/tehran)
+Is a BERT based model trained on Divan dataset (proprietary). This model has 124M parameters. Its evaluation on NER and Sentiment Analysis is repoted.
 
 Mocking
 -------
