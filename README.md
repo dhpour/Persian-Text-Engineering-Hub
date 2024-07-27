@@ -686,6 +686,13 @@ Is a BERT based model trained on Divan dataset (proprietary). This model has 46.
 ### [Tehran](https://huggingface.co/lifeweb-ai/tehran)
 Is a BERT based model trained on Divan dataset (proprietary). This model has 124M parameters. Its evaluation on NER and Sentiment Analysis is repoted.
 
+### [FaBERT](https://github.com/SBU-NLP-LAB/FaBERT)
+Is a Persian BERT model trained on various Persian text.
+
+### [AriaBERT](https://huggingface.co/ViraIntelligentDataMining/AriaBERT)
+Is a Persian BERT model trained on various Persian text.
+
+
 Mocking
 -------
 ### [PersianFaker](https://github.com/muhammadmp97/PersianFaker)
