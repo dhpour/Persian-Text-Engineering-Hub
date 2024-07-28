@@ -367,7 +367,7 @@ Contains about 3K tweets, with each one of them labeled as either ironic or not.
 Consists of 5.5K pairs of tweets which the stance of the reply tweets have been marked as against, support or neither to the main tweet.
 
 ### [A Claim datatset](https://github.com/sinarashidi/llama-2-persian)
-Consists of 3.8K tweets which the type of each claims in each tweets have been identified.
+Consists of 3.8K tweets which the type of each claims in each tweets have been identified. ~~But it does not show where is the claim located in the main tweet.~~
 
 NER
 ---
