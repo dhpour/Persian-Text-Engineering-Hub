@@ -306,6 +306,9 @@ Persian NLP team trained various mt5 and bert models on their multiple-choice QA
 ### [Persian Conversational Dataset (Legal)](https://huggingface.co/datasets/Kamtera/Persian-conversational-dataset)
 It consists of 266k legal questions, answers and related tags.
 
+### [Alpaca Persian](https://huggingface.co/datasets/sinarashidi/alpaca-persian)
+Persian translation of 35k records of Alpaca Instruction dataset.
+
 Dependency Parsing
 ------------------
 ### [The Persian Universal Dependency Treebank (Persian UD)](https://github.com/UniversalDependencies/UD_Persian-Seraji)
