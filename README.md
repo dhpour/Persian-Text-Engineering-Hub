@@ -307,7 +307,7 @@ Persian NLP team trained various mt5 and bert models on their multiple-choice QA
 It consists of 266k legal questions, answers and related tags.
 
 ### [Alpaca Persian](https://huggingface.co/datasets/sinarashidi/alpaca-persian)
-Persian translation of 35k records of Stanford Alpaca Instruction dataset (52K records).
+Persian translation of 35k records of Stanford Alpaca Instruction dataset (52K records). There is also [a version with different formatting](https://huggingface.co/datasets/sinarashidi/alpaca-persian-llama2).
 
 Dependency Parsing
 ------------------
