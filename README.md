@@ -16,7 +16,7 @@ Topics
 - [QA](#qa)
 - [Dependency Parsing](#dependency-parsing)
 - [Entailment](#entailment)
-- [Datasets](#datasets-classification)
+- [Datasets (classification)](#datasets-classification)
 - [NER](#ner)
 - [Unlabled and Raw Text](#unlabled-and-raw)
 - [Toxic Text](#toxic-text)
@@ -362,6 +362,12 @@ Contains about 3K tweets, with each one of them labeled as either ironic or not.
 
 ### [Persian Stance Detection](https://github.com/Zarharan/PersianStanceDetection)
 4K of records of stance detection in headlines and bodies of News articles.
+
+### [A Stance datatset](https://github.com/sinarashidi/llama-2-persian)
+Consists of 5.5K pairs of tweets which the stance of the reply tweets have been marked as against, support or neither to the main tweet.
+
+### [A Claim datatset](https://github.com/sinarashidi/llama-2-persian)
+Consists of 3.8K tweets which the type of each claims in each tweets have been identified.
 
 NER
 ---
