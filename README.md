@@ -748,6 +748,9 @@ The VQA dataset consists of almost 11k images and 28.5k question and answer pair
 ### [CLIPfa](https://github.com/sajjjadayobi/CLIPfa)
 A dataset consists of 16M records of images and their corresponding texts. It also consists of a model traind on 400k of this dataset for searching images based on text and image.
 
+### [Persian Image Captioning](https://huggingface.co/datasets/SeyedAli/Persian-Image-Captioning)
+Consists of about 26K records of images with th describing captions in Persian.
+
 Translation
 -----------
 
