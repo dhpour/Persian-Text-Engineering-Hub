@@ -197,7 +197,7 @@ It is the Persian translation of NRC Emotion Lexicon which is a list of English 
 Consists of 10k samples which each record focuses on one aspect (e.g. camera, screen resolution, etc of a comment about a cell phone) of a comment. Each comment may appear on more than one sample based on the number of aspects that exist in that comment.
 
 ### [PerSent -- Persian Sentiment Analysis and Opinion Mining Lexicon](https://www.gelbukh.com/resources/persent/)
-Consists of 1500 words with their degree of polarity.
+Consists of 1500 words with their degrees of polarity.
 
 ### [DeepSentiPers](https://github.com/JoyeBright/DeepSentiPers)
 Uses [SentiPers](https://github.com/phosseini/sentipers) data which contains 7400 sentences and extends it with different embeddings for creating both LSTM and CNN models. All old and new transformed data and notebooks to create models are available in this repo.
