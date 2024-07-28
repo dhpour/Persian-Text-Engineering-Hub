@@ -817,6 +817,9 @@ Paraphrase data for Persian. It consists of 2.3M sentence pairs of which 1M of t
 ### [ParsiNLU](https://github.com/persiannlp/parsinlu)
 Persian NLP team trained various mt5 models on their query paraphrase dataset.
 
+### [Persian Text Paraphrase](https://huggingface.co/datasets/SeyedAli/Persian-Text-Paraphrasing)
+Consists of 800 pairs of Persian sentences wich are paraphrases of each other.
+
 WSD
 ---
 ### [SBU WSD Corpus](https://github.com/hrouhizadeh/SBU-WSD-Corpus)
