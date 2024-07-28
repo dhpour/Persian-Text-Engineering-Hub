@@ -785,6 +785,9 @@ Open information extraction from Persian web.
 ### [ParsSimpleQA](https://github.com/partdpai/ParsSimpleQA)
 The Persian Simple Question Answering Dataset and System over Knowledge Graph. It consists of 36k records.
 
+### [ParsFEVER](https://github.com/Zarharan/ParsFEVER)
+Is a Dataset for Farsi Fact Extraction and Verification based on [fever](https://github.com/awslabs/fever) guidelines.
+
 Summary
 -------
 ### [TasnimNews Dataset (Farsi - Persian) | تسنیم](https://www.kaggle.com/datasets/amirpourmand/tasnimdataset)
