@@ -16,7 +16,7 @@ Topics
 - [QA](#qa)
 - [Dependency Parsing](#dependency-parsing)
 - [Entailment](#entailment)
-- [Datasets](#datasets)
+- [Datasets](#datasets-classification)
 - [NER](#ner)
 - [Unlabled and Raw Text](#unlabled-and-raw)
 - [Toxic Text](#toxic-text)
@@ -340,8 +340,8 @@ Utilizes the FarsTail dataset for fine-tuning its [ParsBERT](https://github.com/
 ### [ParsiNLU](https://github.com/persiannlp/parsinlu)
 Persian NLP team trained various mt5 and bert models on their entailment dataset.
 
-Datasets
---------
+Datasets (classification)
+-------------------------
 ### [Virgool Dataset](https://www.kaggle.com/datasets/mehranrafiee/persian-articles-for-labeling)
 This could be a nice tool for Persian writers or bloggers to automatically pick the suggested hashtag or even subject for their articles. We could even collect data from google trend for each hashtag or 'label' used in an article. Consists of 11k+ articles.
 
@@ -362,6 +362,9 @@ MirasText has more than 2.8 million articles and over 1.4 billion content words.
 
 ### [Miras Irony](https://github.com/miras-tech/MirasText/tree/master/MirasIrony)
 Contains about 3K tweets, with each one of them labeled as either ironic or not.
+
+### [Persian Stance Detection](https://github.com/Zarharan/PersianStanceDetection)
+4K of records of stance detection in headlines and bodies of News articles.
 
 NER
 ---
