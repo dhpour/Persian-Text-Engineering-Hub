@@ -390,9 +390,6 @@ it only consists of:
 - [Wikiann named entity recognition](https://github.com/afshinrahimi/mmner)
 - Universal dependencies part-of-speech tagging (rasooli et al.)
 
-### [ParsBERT](https://github.com/hooshvare/parsbert)
-Fine-tuned a BERT based transofrmer on various named entity datasets like Peyma and Arman.
-
 Unlabled and Raw
 --------
 
