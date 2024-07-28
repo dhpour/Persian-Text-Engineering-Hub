@@ -717,6 +717,9 @@ Hand-written / typed names of different cities of Iran in image format.
 ### [PLF Image Dataset](https://www.kaggle.com/datasets/sabermalek/plf50)
  50*50 Images of Persian letters (without dots) with 32 Different Fonts.
 
+### [Persian Subwords](https://github.com/partdpai/persian_subwords)
+Consists of about 20k images of Persian subwords in different fonts and sizes to be used in ocr models.
+
 Spam
 ----
 
