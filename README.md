@@ -773,6 +773,9 @@ A knowledge graph platform for extracting from wikipedia, tables and unstructure
 ### [Baaz](https://github.com/roshan-research/openie)
 Open information extraction from Persian web.
 
+### [ParsSimpleQA](https://github.com/partdpai/ParsSimpleQA)
+The Persian Simple Question Answering Dataset and System over Knowledge Graph. It consists of 36k records.
+
 Summary
 -------
 ### [TasnimNews Dataset (Farsi - Persian) | تسنیم](https://www.kaggle.com/datasets/amirpourmand/tasnimdataset)
