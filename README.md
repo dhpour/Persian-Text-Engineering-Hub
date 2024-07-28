@@ -687,11 +687,13 @@ Is a BERT based model trained on Divan dataset (proprietary). This model has 46.
 Is a BERT based model trained on Divan dataset (proprietary). This model has 124M parameters. Its evaluation on NER and Sentiment Analysis is repoted.
 
 ### [FaBERT](https://github.com/SBU-NLP-LAB/FaBERT)
-Is a Persian BERT model trained on various Persian text.
+Is a Persian BERT model trained on various Persian texts.
 
 ### [AriaBERT](https://huggingface.co/ViraIntelligentDataMining/AriaBERT)
-Is a Persian BERT model trained on various Persian text.
+Is a Persian BERT model trained on various Persian texts.
 
+### [TookaBERT](https://huggingface.co/PartAI/TookaBERT-Base)
+Is a Persian BERT model trained on various Persian texts with 123M parameters. There is also a large version of this [model](https://huggingface.co/PartAI/TookaBERT-Large) with 353M parameters.
 
 Mocking
 -------
