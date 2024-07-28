@@ -184,6 +184,9 @@ The Digikala (comments & products) dataset offers a comprehensive glimpse into t
 ### [Persian Emotion Detection (tweets)](https://github.com/nazaninsbr/Persian-Emotion-Detection)
 A Dataset of 30,000 emotion labeled Persian Tweets.
 
+### [Persian Text Emotion](https://huggingface.co/datasets/SeyedAli/Persian-Text-Emotion)
+Consists of 5.56K tweets with labels (sadness, anger, happiness, hatred, wonder and fear) describing their emotions.
+
 ### [ArmanEmo](https://github.com/Arman-Rayan-Sharif/arman-text-emotion)
 Consists of 7k docs with 6 emotion label types (sadness, anger, happiness, hatred, wonder, fear).
 
