@@ -357,9 +357,6 @@ Yearly collection of the Farsnews agency (1398). Contains 294k News article with
 ### [Digikala Magazine (DigiMag)](https://hooshvare.github.io/docs/datasets/tc#digikala-magazine-digimag)
 A total of 8,515 articles scraped from Digikala Online Magazine. This dataset includes seven different classes: Video Games, Shopping Guide, Health Beauty, Science Technology, General, Art Cinema and Books Literature.
 
-### [Miras Text](https://github.com/miras-tech/MirasText)
-MirasText has more than 2.8 million articles and over 1.4 billion content words. Consists of following columns: content, summary, keywords, title, url.
-
 ### [Miras Irony](https://github.com/miras-tech/MirasText/tree/master/MirasIrony)
 Contains about 3K tweets, with each one of them labeled as either ironic or not.
 
@@ -807,6 +804,9 @@ A well-structured summarization dataset for the Persian language consists of 93,
 
 ### [Sentence Transformers (ParsBERT)](https://github.com/m3hrdadfi/sentence-transformers)
 Consists of similar models fine-tuned on [ParsBERT](https://github.com/hooshvare/parsbert) using three different datasets, these models can be utilized for various applications, including Text summarization.
+
+### [Miras Text](https://github.com/miras-tech/MirasText)
+MirasText has more than 2.8 million articles and over 1.4 billion content words. Consists of following columns: content, summary, keywords, title, url.
 
 Paraphrase
 ----------
