@@ -817,6 +817,9 @@ Paraphrase data for Persian. It consists of 2.3M sentence pairs of which 1M of t
 ### [ParsiNLU](https://github.com/persiannlp/parsinlu)
 Persian NLP team trained various mt5 models on their query paraphrase dataset.
 
+### [Persian Quora Question Pairs](https://huggingface.co/datasets/SeyedAli/Persian-Quora-Question-Pairs)
+Consists of 3.72K question pairs with labels indicating two questions are paraphrase or not. A part of records are translations of Quora Question Pairs dataset.
+
 WSD
 ---
 ### [SBU WSD Corpus](https://github.com/hrouhizadeh/SBU-WSD-Corpus)
