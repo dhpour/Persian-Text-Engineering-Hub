@@ -558,6 +558,9 @@ The "Iranian Job Title" dataset offers a comprehensive compilation of various jo
 ### [Moeen_thesaurus](https://github.com/kavir1698/Moeen_thesaurus)
 فرهنگِ پیوندِ معناییِ واژه‌ها (بر پایه‌ی فرهنگ معین)
 
+### [Enahnced Flexicon](https://github.com/asdoost/Enhanced_Flexicon)
+It's an enhanced version of Flexicon word list with syllable, IPA procunciation and some refinements in word list itself.
+
 Poetry and Literature
 ---------------------
 ### [Hafez Poems](https://github.com/ArminGh02/hafez-poems-bot)
