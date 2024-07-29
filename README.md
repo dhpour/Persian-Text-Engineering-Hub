@@ -503,6 +503,9 @@ Farsi to Finglish, a Persian transliterator
 ### [Behnevis](https://github.com/dhpour/pinglish_behnevis)
 24k ASCII transliterated Persian words
 
+### [Farsi to Tajiki](https://github.com/kor-gar/farsi)
+An attempt to make a transliterator of Farsi (Persian) web page to Tajiki (Cyrillic) with a bookmarklet.
+
 Encyclopedia and Word Set
 -------------------------
 
