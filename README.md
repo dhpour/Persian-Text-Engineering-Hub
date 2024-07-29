@@ -844,7 +844,7 @@ Generation
 The Dorna models are a family of decoder-only models, specifically trained/fine-tuned on Persian data. This model is built using the Meta Llama 3 Instruct model. There are also [quantized versions](https://huggingface.co/PartAI/Dorna-Llama3-8B-Instruct-GGUF) of this model.
 
 ### [PersianLLaMA 13B Instruct](https://huggingface.co/ViraIntelligentDataMining/PersianLLaMA-13B-Instruct)
-With 13 billion parameters, this model is fine-tuned using the [Persian Alpaca dataset](https://huggingface.co/datasets/sinarashidi/alpaca-persian) on Lllama 2 to excel at executing detailed instructions and delivering tailored outputs. There is also [PersianLLaMA 13B](https://huggingface.co/ViraIntelligentDataMining/PersianLLaMA-13B) which is fine-tuned on Persian wikipedia.
+With 13 billion parameters, this model has been fine-tuned using the [Persian Alpaca dataset](https://huggingface.co/datasets/sinarashidi/alpaca-persian) on Lllama 2 to excel at executing detailed instructions and delivering tailored outputs. There is also [PersianLLaMA 13B](https://huggingface.co/ViraIntelligentDataMining/PersianLLaMA-13B) which is fine-tuned on Persian wikipedia.
 
 ### [ParsGPT](https://github.com/hooshvare/parsgpt)
 Persian version of GPT2 model fine-tuned on Persian poetry and [ParsiNLU sentiment analysis](https://github.com/persiannlp/parsinlu) datast.
