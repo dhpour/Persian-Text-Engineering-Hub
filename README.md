@@ -11,7 +11,7 @@ Topics
 - [Sentiment Analysis](#sentiment-analysis)
 - [Informal Persian](#informal-persian)
 - [Numbers <> Words](#numbers--words)
-- [Word Embeddings](#embeddings)
+- [Embeddings](#embeddings)
 - [Benchmark](#benchmark)
 - [QA](#qa)
 - [Dependency Parsing](#dependency-parsing)
