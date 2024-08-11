@@ -570,32 +570,31 @@ A simple Telegram bot implemented in Python.
 
 ### [Persian Databases](https://github.com/ganjoor/persian-databases)
 Useful Persian dictionary and more. Consists of:
-- اشعار شعرای ایرانی
-    - احمد شاملو
-    - باباطاهر
-    - پروین اعتصامی
-    - حافظ
-    - خیام
-    - رهی معیری
-    - رودکی
-    - سعدی
-    - سهراب سپهری
-    - شهریار
-    - صائب تبریزی
-    - عنصری
-    - فردوسی
-    - فروغ فرخزاد
-    - مهدی اخوان ثالت
-    - مولوی
-    - نظامی
-    - نیما یوشیج
-
-- **دیتابیس قرآن کریم**
-    - سوره های قرآن [114 ردیف]
-    - آیات قرآن [6236 ردیف]
-    - ترجمه الهی قمشه ای [6236 ردیف]
-    - ترجمه کلمه به کلمه آیات [83668 ردیف]
-    - لینک صوت قاریان [48 ردیف]
+- Persian poetry of Iranian poets:
+  - Ahmad Shamlou
+  - Baba-Taher
+  - Parvin E'tesami
+  - Hafez
+  - Khayyam
+  - Rahi-Moayeri
+  - Roodaki
+  - Sa'di
+  - Sohrab Sepehri
+  - Shahriar
+  - Saeb Tabrizi
+  - Onsori
+  - Ferdowsi
+  - Forugh Farrokhzad
+  - Mehdi Akhavan Sales
+  - Mowlavi
+  - Nezami
+  - Nima Yushij
+- Quran Database
+  - Quran Surahs (114)
+  - Quran Versus (6236)
+  - Quran Versus Translation by Gomshe'i (6326)
+  - Quran Translation Word by word (83668)
+  - Reading voice of Famous Readers (48)
 
 ### [Shereno: A Dataset of Persian Modernist Poetry](https://www.kaggle.com/datasets/elhamaghakhani/persian-poems)
 Collection of Persian Modernist Poetry from Iranian contemporary poets
