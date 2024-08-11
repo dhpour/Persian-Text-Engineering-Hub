@@ -799,7 +799,7 @@ Open information extraction from Persian web.
 The Persian Simple Question Answering Dataset and System over Knowledge Graph. It consists of 36k records.
 
 ### [ParsFEVER](https://github.com/Zarharan/ParsFEVER)
-It is a Dataset for Farsi Fact Extraction and Verification based on [fever](https://github.com/awslabs/fever) guidelines.
+It is a dataset for Persian fact extraction and verification, developed in accordance with [FEVER](https://github.com/awslabs/fever) guidelines.
 
 Summary
 -------
