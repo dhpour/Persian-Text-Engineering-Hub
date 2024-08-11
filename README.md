@@ -790,7 +790,7 @@ Knowledge Graph
 It is a large Multilingual Dataset for Entity Linking containing data in 53 languages including `Persian`. DaMuEL consists of two components: a knowledge base that contains language-agnostic information about entities, including their claims from Wikidata and named entity types (PER, ORG, LOC, EVENT, BRAND, WORK_OF_ART, MANUFACTURED); and Wikipedia texts with entity mentions linked to the knowledge base, along with language-specific text from Wikidata such as labels, aliases, and descriptions, stored separately for each language. [Paper](https://arxiv.org/pdf/2306.09288). For this project UDPipe has been used.
 
 ### [FarsBase](http://farsbase.net/about)
-A knowledge graph platform for extracting from wikipedia, tables and unstructured texts. There is also a part of its data available for download.
+It is a knowledge graph platform designed for extracting information from Wikipedia, tables, and unstructured texts. A portion of its data is also available for download.
 
 ### [Baaz](https://github.com/roshan-research/openie)
 Open information extraction from Persian web.
