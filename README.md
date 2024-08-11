@@ -558,7 +558,7 @@ Useful Persian dictionary and more. Consists of:
 The "Iranian Job Title" dataset offers a comprehensive compilation of various job titles prevalent in Iran across diverse industries and sectors.
 
 ### [Moeen_thesaurus](https://github.com/kavir1698/Moeen_thesaurus)
-فرهنگِ پیوندِ معناییِ واژه‌ها (بر پایه‌ی فرهنگ معین)
+Moeen dictionary based Thesaurus for Persian.
 
 ### [Enahnced Flexicon](https://github.com/asdoost/Enhanced_Flexicon)
 It's an enhanced version of Flexicon word list with syllable, IPA procunciation and some refinements in word list itself.
