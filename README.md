@@ -303,7 +303,7 @@ Medical Question Answering dataset consists of 15k dialogs in 70 specialities.
 Persian Question Answering Dataset based on Machine Translation of SQuAD 2.0
 
 ### [Crossword Cheat](https://github.com/dhpour/cwcheat)
-Consists of 30K questions and answers of different Persian crosswords.
+Consists of 30K questions and answers of various Persian crossword puzzles.
 
 ### [ParsiNLU](https://github.com/persiannlp/parsinlu)
 Persian NLP team trained various mt5 and bert models on their multiple-choice QA dataset.
