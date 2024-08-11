@@ -665,7 +665,7 @@ PARSEME is a verbal multiword expressions (VMWEs) corpus for Farsi. All the anno
 - [Hezar](https://github.com/hezarai/hezar)
 
 ### [Farsi NLP Tools](https://github.com/wfeely/farsiNLPTools)
-Scripts and model developed for POS Tagging and Dependency Parsing Persian based on [TurboParser](http://www.ark.cs.cmu.edu/TurboParser).
+Scripts and models developed for POS Tagging and Dependency Parsing Persian based on [TurboParser](http://www.ark.cs.cmu.edu/TurboParser).
 
 ### [RDR POS Tagger](https://github.com/datquocnguyen/RDRPOSTagger)
 RDRPOSTagger is supports pre-trained UPOS, XPOS and morphological tagging models for about 80 languages including `Persian`. [Java version](https://github.com/datquocnguyen/jPTDP).
