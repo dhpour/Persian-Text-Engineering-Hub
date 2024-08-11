@@ -3,6 +3,8 @@
 
 Curated list of Text libraries, tools and datasets for Persian language.
 
+In each section tools, libraries, models and datasets related to the main topic are listed.
+
 Topics
 ------
 - [Multi-purpose libs](#multi-purpose-libs)
