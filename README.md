@@ -205,7 +205,7 @@ Consists of 10k samples which each record focuses on one aspect (e.g. camera, sc
 Consists of 1500 words with their degrees of polarity.
 
 ### [DeepSentiPers](https://github.com/JoyeBright/DeepSentiPers)
-Uses [SentiPers](https://github.com/phosseini/sentipers) data which contains 7400 sentences and extends it with different embeddings for creating both LSTM and CNN models. All old and new transformed data and notebooks to create models are available in this repo.
+Utilizes the [SentiPers dataset](https://github.com/phosseini/sentipers), which consists of 7,400 sentences, and enhances it with various embeddings to develop both LSTM and CNN models. All the original and newly transformed data, along with the notebooks used to create the models, are available in this repository.
 
 ### [ParsBERT](https://github.com/hooshvare/parsbert)
 Fine-tuned a BERT based transofrmer on various sentiment analysis datasets like Digikala, SnappFood, SentiPers and Taaghche.
