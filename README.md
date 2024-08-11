@@ -543,16 +543,16 @@ List of ~240,000 Persian words
 
 ### [persian-databases](https://github.com/ganjoor/persian-databases)
 Useful Persian dictionary and more. Consists of:
-  - لغتنامه دهخدا [36097 ردیف]
-  - مترادف های کلمات [19914 ردیف]
-  - فرهنگ جامع عربی به فارسی [113342 ردیف]
-  - فرهنگ جامع فارسی به عربی [32734 ردیف]
-  - فرهنگ ابجد فارسی به عربی [41718 ردیف]
-  - فرهنگ عربی به فارسی [8020 ردیف]
-  - مفردات القرآن الکریم عربی [1609 ردیف]
-  - مغاییس اللغه عربی [4669 ردیف]
-  - المعجم الوسیط  عربی [41473 ردیف]
-  - الامثال (شرح امثال عربی به عربی) [4510 ردیف]
+  - Dehkhoda dictionary (36k)
+  - Synonyms (20k)
+  - Arabic to Persian dictionary (113k)
+  - Persian to Arabic dictionary(32k)
+  - Abjad Persian to Arabic dictionary (42k)
+  - Arabic to Persian dictionary (8k)
+  - Quran Mofradat (1.6k)
+  - Arabic monolingual dictionary (4.6k)
+  - Intermediate Arabic dictionary (41k)
+  - Alamsal - Arabic proverbs dictionary (4.5k)
 
 ### [Iranian job title](https://www.kaggle.com/datasets/amirshnll/iranian-job-title)
 The "Iranian Job Title" dataset offers a comprehensive compilation of various job titles prevalent in Iran across diverse industries and sectors.
