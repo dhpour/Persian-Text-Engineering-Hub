@@ -856,6 +856,9 @@ Persian version of GPT2 model fine-tuned on Persian poetry and [ParsiNLU sentime
 ### [AVA LLM collection](https://huggingface.co/collections/MehdiHosseiniMoghadam/ava-6648848e7a1ed3e0016f8395)
 Fine-tuned versions of Mistral 7B and Llama 3 for Persian. The Persian resources used for these models are not known.
 
+### [MaralGPT](https://huggingface.co/MaralGPT)
+Is a Mistral 7B based model trained on [Alpaca Persian Instruction dataset](https://huggingface.co/datasets/sinarashidi/alpaca-persian).
+
 Thanks
 ------
 Thanks to [Awesome Persian NLP](https://github.com/mhbashari/awesome-persian-nlp-ir) and [Awesome Iranian Datasets](https://github.com/MEgooneh/awesome-Iran-datasets) for providing some elements of this long list.
