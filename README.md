@@ -317,6 +317,9 @@ Persian translation of 35k records of Stanford Alpaca Instruction dataset (52K r
 ### [Synthetic Persian QA](https://huggingface.co/datasets/mshojaei77/Persian_QA)
 This dataset contains 5900 Persian language question-answer pairs generated using the PersianAnswerGenerator class from answer.py. The answers are produced by an AI assistant leveraging the GPT-4o model through the Avala API service.
 
+### [MauxiMix - Persian conversation dataset](https://huggingface.co/datasets/xmanii/mauxi-mix-persian)
+MauxiMix is a carefully curated dataset of 1,000 high-quality Persian conversations, translated from the SmolTalk dataset using advanced language models. This dataset is specifically designed for training and fine-tuning Large Language Models (LLMs) with Supervised Fine-Tuning (SFT) techniques, contributing to the development of open-source Persian language models.
+
 Dependency Parsing
 ------------------
 ### [The Persian Universal Dependency Treebank (Persian UD)](https://github.com/UniversalDependencies/UD_Persian-Seraji)
