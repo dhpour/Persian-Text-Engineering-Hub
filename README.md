@@ -314,6 +314,9 @@ It consists of 266k legal questions, answers and related tags.
 ### [Alpaca Persian](https://huggingface.co/datasets/sinarashidi/alpaca-persian)
 Persian translation of 35k records of Stanford Alpaca Instruction dataset (52K records). There is also [a version](https://huggingface.co/datasets/sinarashidi/alpaca-persian-llama2) with different formatting.
 
+### [Synthetic Persian QA](https://huggingface.co/datasets/mshojaei77/Persian_QA)
+This dataset contains 5900 Persian language question-answer pairs generated using the PersianAnswerGenerator class from answer.py. The answers are produced by an AI assistant leveraging the GPT-4o model through the Avala API service.
+
 Dependency Parsing
 ------------------
 ### [The Persian Universal Dependency Treebank (Persian UD)](https://github.com/UniversalDependencies/UD_Persian-Seraji)
