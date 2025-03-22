@@ -1,4 +1,4 @@
-# Persian-Text-Engineering-Hub
+# Persian text engineering legacy tools and libraries
 [![Check Links](https://github.com/dhpour/Persian-Text-Engineering-Hub/actions/workflows/link_check.yml/badge.svg)](https://github.com/dhpour/Persian-Text-Engineering-Hub/actions/workflows/link_check.yml)
 
 Curated list of Text libraries, tools and datasets for Persian language.
