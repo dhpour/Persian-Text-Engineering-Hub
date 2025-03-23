@@ -404,6 +404,9 @@ Persian NLP team trained various mt5 models on their query paraphrase dataset.
 ### [Persian Text Paraphrase](https://huggingface.co/datasets/SeyedAli/Persian-Text-Paraphrasing)
 Consists of 800 pairs of Persian sentences wich are paraphrases of each other.
 
+### [Degarbayan-SC: A Colloquial Paraphrase Farsi](https://huggingface.co/datasets/m0javad/Degarbayan-SC-dataset)
+This dataset consists of about 1.5M of paraphrase sentences pairs.
+
 WSD
 ---
 ### [SBU WSD Corpus](https://github.com/hrouhizadeh/SBU-WSD-Corpus)
