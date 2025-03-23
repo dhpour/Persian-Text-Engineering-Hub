@@ -60,10 +60,10 @@ This dataset consists of 30157 pairs of questions and answers.
 ### [Iranian Legal Question Answering Dataset](https://huggingface.co/datasets/PerSets/iran-legal-persian-qa)
 This dataset includes over 570k questions and more than 1.9m answers, all in written form.
 
-### [Clinical Question Answering Dataset II](https://huggingface.co/datasets/PerSets/clinical-persian-qa-ii)
+### [Medical Question Answering Dataset II](https://huggingface.co/datasets/PerSets/clinical-persian-qa-ii)
 This dataset contains more than 211k questions and more than 700k answers, all produced in written form.
 
-### [Clinical Question Answering Dataset I](https://huggingface.co/datasets/PerSets/clinical-persian-qa-i)
+### [Medical Question Answering Dataset I](https://huggingface.co/datasets/PerSets/clinical-persian-qa-i)
 This dataset contains approximately 50k questions and around 60k answers, all produced in written form.
 
 Datasets (classification)
