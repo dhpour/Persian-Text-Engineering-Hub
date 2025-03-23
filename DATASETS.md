@@ -122,6 +122,9 @@ it only consists of:
 - [Wikiann named entity recognition](https://github.com/afshinrahimi/mmner)
 - Universal dependencies part-of-speech tagging (rasooli et al.)
 
+### [Persian-NER-Dataset-500k](https://huggingface.co/datasets/mansoorhamidzadeh/Persian-NER-Dataset-500k)
+This repository contains a comprehensive Persian NER dataset with approximately 500,000 tokens. This dataset is a collection of all available Persian NER datasets, carefully cleaned and consolidated to ensure the highest quality for training, validating, and testing NER models in the Persian language.
+
 Unlabled and Raw
 --------
 
