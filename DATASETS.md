@@ -302,6 +302,15 @@ Open-source tool for speech recognition for various platforms and OSes, supprtin
 ### [Wav2Vec2-Large-XLSR-53-Persian V3](https://huggingface.co/m3hrdadfi/wav2vec2-large-xlsr-persian-v3)
 It is a wav2vec model fine-tuned on Mozzila CommonVoice Persian dataset. The model and the notebook to recreate the model with extra data are avaialble. 
 
+### [Farsi Youtube 2024 ASR Dataset](https://huggingface.co/datasets/PerSets/youtube-persian-asr)
+This dataset consists of over 385 hours of transcribed audio extracted from various YouTube videos in the Persian language (more than 400k rows).
+
+### [Filimo ASR Dataset 2024](https://huggingface.co/datasets/PerSets/filimo-persian-asr)
+This dataset consists of about 245 hours of transcribed audio extracted from various Filimo (an Iranian VOD) videos in the Persian language (more than 400k rows).
+
+### [Tarjoman Podcast 2023 ASR Dataset](https://huggingface.co/datasets/PerSets/tarjoman-persian-asr)
+This datasets consists of a collection of 507 articles from the Tarjoman website until the end of 2023, each accompanied by corresponding audio recordings.
+
 OCR
 ---
 
