@@ -62,6 +62,9 @@ The Persian Simple Question Answering Dataset and System over Knowledge Graph. I
 ### [ParsFEVER](https://github.com/Zarharan/ParsFEVER)
 It is a dataset for Persian fact extraction and verification, developed in accordance with [FEVER](https://github.com/awslabs/fever) guidelines.
 
+### [Entity Attribute Dataset 50k (GPT-4.0 Generated)](https://huggingface.co/datasets/BaSalam/entity-attribute-sft-dataset-GPT-4.0-generated-v1)
+It includes detailed product information generated based on the title of each product, aiming to create a structured catalog in JSON format. The dataset encompasses a variety of product categories such as food, home and kitchen, clothing, handicrafts, tools, automotive equipment, and more.
+
 Embeddings
 ---------------
 
