@@ -54,6 +54,18 @@ This dataset contains 5900 Persian language question-answer pairs generated usin
 ### [MauxiMix - Persian conversation dataset](https://huggingface.co/datasets/xmanii/mauxi-mix-persian)
 MauxiMix is a carefully curated dataset of 1,000 high-quality Persian conversations, translated from the SmolTalk dataset using advanced language models. This dataset is specifically designed for training and fine-tuning Large Language Models (LLMs) with Supervised Fine-Tuning (SFT) techniques, contributing to the development of open-source Persian language models.
 
+### [Crossword Puzzle Cheat Dataset](https://huggingface.co/datasets/PerSets/crossword-puzzle-persian-cheat)
+This dataset consists of 30157 pairs of questions and answers.
+
+### [Iranian Legal Question Answering Dataset](https://huggingface.co/datasets/PerSets/iran-legal-persian-qa)
+This dataset includes over 570k questions and more than 1.9m answers, all in written form.
+
+### [Clinical Question Answering Dataset II](https://huggingface.co/datasets/PerSets/clinical-persian-qa-ii)
+This dataset contains more than 211k questions and more than 700k answers, all produced in written form.
+
+### [Clinical Question Answering Dataset I](https://huggingface.co/datasets/PerSets/clinical-persian-qa-i)
+This dataset contains approximately 50k questions and around 60k answers, all produced in written form.
+
 Datasets (classification)
 -------------------------
 ### [Virgool Dataset](https://www.kaggle.com/datasets/mehranrafiee/persian-articles-for-labeling)
