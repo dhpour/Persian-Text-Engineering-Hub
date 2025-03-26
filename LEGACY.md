@@ -178,20 +178,9 @@ Takes a number and converts it to Persian word form
 
 Dependency Parsing
 ------------------
-### [The Persian Universal Dependency Treebank (Persian UD)](https://github.com/UniversalDependencies/UD_Persian-Seraji)
-The Persian Universal Dependency Treebank (Seraji) is based on Uppsala Persian Dependency Treebank (UPDT). The conversion of the UPDT to the Universal Dependencies was performed semi-automatically with extensive manual checks and corrections.
-
-### [The Persian Universal Dependency Treebank (PerUDT) (v1.0)](https://github.com/UniversalDependencies/UD_Persian-PerDT)
-The Persian Universal Dependency Treebank (PerUDT) is the result of automatic coversion of Persian Dependency Treebank (PerDT) with extensive manual corrections. Consists of 29k sentences.
-
-### [PARSEME Corpse Fa](https://gitlab.com/parseme/parseme_corpus_fa)
-PARSEME is a verbal multiword expressions (VMWEs) corpus for Farsi. All the annotated data come from a subset of the Farsi section of the [MULTEXT-East "1984"](https://nl.ijs.si/ME/Vault/V4/) annotated corpus 4.0. More than colums of LEMMA UPOS, XPOS, FEATS, HEAD and DEPREL there is also PARSEME:MVE which is manually annotated.
 
 ### [UDPipe 2](https://github.com/ufal/udpipe/tree/udpipe-2)
 UDPipe: Trainable pipeline for tokenizing, tagging, lemmatizing and parsing Universal Treebanks and other CoNLL-U files.
-
-### [Informal Persian Universal Dependency Treebank (iPerUDT)](https://github.com/royakabiri/iPerUDT)
-Informal Persian Universal Dependency Treebank, consisting of 3000 sentences and 54,904 tokens, is an open source collection of colloquial informal texts from Persian blogs.
 
 Spell checking
 ------------

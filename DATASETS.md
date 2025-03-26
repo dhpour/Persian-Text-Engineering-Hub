@@ -22,6 +22,7 @@ Topics
 - [Paraphrase](#paraphrase)
 - [WSD](#wsd)
 - [Sentiment Analysis](#sentiment-analysis)
+- [Dependency Parsing](#dependency-parsing)
 
 QA
 --
@@ -469,3 +470,17 @@ Consists of 1500 words with their degrees of polarity.
 
 ### [DeepSentiPers](https://github.com/JoyeBright/DeepSentiPers)
 Utilizes the [SentiPers dataset](https://github.com/phosseini/sentipers), which consists of 7,400 sentences, and enhances it with various embeddings to develop both LSTM and CNN models. All the original and newly transformed data, along with the notebooks used to create the models, are available in this repository.
+
+Dependency Parsing
+------------------
+### [The Persian Universal Dependency Treebank (Persian UD)](https://github.com/UniversalDependencies/UD_Persian-Seraji)
+The Persian Universal Dependency Treebank (Seraji) is based on Uppsala Persian Dependency Treebank (UPDT). The conversion of the UPDT to the Universal Dependencies was performed semi-automatically with extensive manual checks and corrections.
+
+### [The Persian Universal Dependency Treebank (PerUDT) (v1.0)](https://github.com/UniversalDependencies/UD_Persian-PerDT)
+The Persian Universal Dependency Treebank (PerUDT) is the result of automatic coversion of Persian Dependency Treebank (PerDT) with extensive manual corrections. Consists of 29k sentences.
+
+### [PARSEME Corpse Fa](https://gitlab.com/parseme/parseme_corpus_fa)
+PARSEME is a verbal multiword expressions (VMWEs) corpus for Farsi. All the annotated data come from a subset of the Farsi section of the [MULTEXT-East "1984"](https://nl.ijs.si/ME/Vault/V4/) annotated corpus 4.0. More than colums of LEMMA UPOS, XPOS, FEATS, HEAD and DEPREL there is also PARSEME:MVE which is manually annotated.
+
+### [Informal Persian Universal Dependency Treebank (iPerUDT)](https://github.com/royakabiri/iPerUDT)
+Informal Persian Universal Dependency Treebank, consisting of 3000 sentences and 54,904 tokens, is an open source collection of colloquial informal texts from Persian blogs.
