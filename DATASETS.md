@@ -21,6 +21,7 @@ Topics
 - [Summary](#summary)
 - [Paraphrase](#paraphrase)
 - [WSD](#wsd)
+- [Sentiment Analysis](#sentiment-analysis)
 
 QA
 --
@@ -408,3 +409,63 @@ WSD
 ---
 ### [SBU WSD Corpus](https://github.com/hrouhizadeh/SBU-WSD-Corpus)
 SBU-WSD-Corpus: A Sense Annotated Corpus for Persian All-words Word Sense Disambiguation.
+
+Sentiment Analysis
+------------------
+### [Persian Sentiment Resources](https://github.com/Text-Mining/Persian-Sentiment-Resources)
+Awesome Persian Sentiment Analysis Resources - منابع مرتبط با تحلیل احساسات در زبان فارسی
+
+- Consists of following datasets:
+  - Deep Neural Networks in Persian Sentiment Analysis
+  - Sentiment Analysis Challenges
+  - Sentiment Lexicon
+  - Sentiment Tagged Corpus (dataset)
+  - HesNegar: Persian Sentiment WordNet
+
+### [Persian Sentiment Analyzer](https://github.com/ashalogic/Persian-Sentiment-Analyzer)
+Consists of data (3K) and code (notebook) to create a LSTM model for Sentiment Analysis.
+
+### [Sentiment Analysis](https://github.com/parsa-abbasi/Sentiment-Analysis)
+Sentiment analysis using ML and DL models on Persian texts
+
+### [LexiPers](https://github.com/phosseini/LexiPers)
+A Sentiment Analysis Lexicon for Persian. Consists of 4k words
+
+### [Taaghche | طاقچه](https://www.kaggle.com/datasets/saeedtqp/taaghche)
+Persian book comment ratings dataset. Consists of about 70k comment about 11k books.
+
+### [Digikala (comments & products)](https://www.kaggle.com/datasets/radeai/digikala-comments-and-products)
+The Digikala (comments & products) dataset offers a comprehensive glimpse into the vast online marketplace of Digikala, comprising over 1.2 million products and more than 6 million comments.
+
+### [Digikala Comments](https://www.kaggle.com/datasets/soheiltehranipour/digikala-comments-persian-sentiment-analysis)
+3k comments with score and ratings.
+
+### [MirasOpinion](https://github.com/miras-tech/MirasText/tree/master/MirasOpinion)
+93k digikala products comments with manual labeling.
+
+### [Persian tweets emotional dataset](https://www.kaggle.com/datasets/behdadkarimi/persian-tweets-emotional-dataset)
+20k tweets with emotion identification labels.
+
+### [Persian Emotion Detection (tweets)](https://github.com/nazaninsbr/Persian-Emotion-Detection)
+A Dataset of 30,000 emotion labeled Persian Tweets.
+
+### [Persian Text Emotion](https://huggingface.co/datasets/SeyedAli/Persian-Text-Emotion)
+Consists of 5.56K tweets with labels (sadness, anger, happiness, hatred, wonder and fear) describing their emotions.
+
+### [ArmanEmo](https://github.com/Arman-Rayan-Sharif/arman-text-emotion)
+Consists of 7k docs with 6 emotion label types (sadness, anger, happiness, hatred, wonder, fear).
+
+### [Snappfood](https://hooshvare.github.io/docs/datasets/sa#snappfood)
+Snappfood (an online food delivery company) user comments containing 70,000 comments with two labels (i.e. polarity classification): Happy, Sad.
+
+### [NRC Persian Lexicon](https://github.com/mhbashari/NRC-Persian-Lexicon)
+It is the Persian translation of NRC Emotion Lexicon which is a list of English words with their associate basic emotions in eigth categories( anger, fear, anticipation, trust, surprise, sadness, joy, and disgust).
+
+### [Pars ABSA](https://github.com/Titowak/Pars-ABSA)
+Consists of 10k samples which each record focuses on one aspect (e.g. camera, screen resolution, etc of a comment about a cell phone) of a comment. Each comment may appear on more than one sample based on the number of aspects that exist in that comment.
+
+### [PerSent -- Persian Sentiment Analysis and Opinion Mining Lexicon](https://www.gelbukh.com/resources/persent/)
+Consists of 1500 words with their degrees of polarity.
+
+### [DeepSentiPers](https://github.com/JoyeBright/DeepSentiPers)
+Utilizes the [SentiPers dataset](https://github.com/phosseini/sentipers), which consists of 7,400 sentences, and enhances it with various embeddings to develop both LSTM and CNN models. All the original and newly transformed data, along with the notebooks used to create the models, are available in this repository.
