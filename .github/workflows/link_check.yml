@@ -1,4 +1,4 @@
-name: Links
+name: resourcesLinks
 
 on: #[push]
   repository_dispatch:
